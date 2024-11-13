@@ -1,0 +1,904 @@
+2024-10-31 01:03:21 Path to logfile set default value
+2024-10-31 01:03:21 Path to basefile set value: /home/stud/курсовая/base/base.txt
+2024-10-31 01:03:21 Port set default value
+2024-10-31 01:03:21 Connect to database success!
+2024-10-31 01:03:21 Server started
+2024-10-31 01:03:21 listen socket created
+2024-10-31 01:03:21 bind success
+2024-10-31 01:09:53 Client socket created
+2024-10-31 01:09:53 ID from client received
+2024-10-31 01:09:53 [Uncritical]Unknown ID
+2024-10-31 01:19:55 Path to logfile set default value
+2024-10-31 01:19:55 Path to basefile set value: /home/stud/курсовая/base/base.txt
+2024-10-31 01:19:55 Port set default value
+2024-10-31 01:19:55 Connect to database success!
+2024-10-31 01:19:55 Server started
+2024-10-31 01:19:55 listen socket created
+2024-10-31 01:19:55 bind success
+2024-10-31 01:20:17 Client socket created
+2024-10-31 01:20:17 ID from client received
+2024-10-31 01:20:17 [Uncritical]Unknown ID
+2024-10-31 02:06:52 Path to logfile set default value
+2024-10-31 02:06:52 Path to basefile set default value
+2024-10-31 02:06:52 Port set default value
+2024-10-31 02:06:52 Connect to database success!
+2024-10-31 02:06:52 Server started
+2024-10-31 02:06:52 listen socket created
+2024-10-31 02:06:52 bind success
+2024-10-31 02:07:46 Client socket created
+2024-10-31 02:07:46 ID from client received
+2024-10-31 02:07:46 [Uncritical]Unknown ID
+2024-10-31 02:08:23 Client socket created
+2024-10-31 02:08:23 ID from client received
+2024-10-31 02:08:23 [Uncritical]Unknown ID
+2024-10-31 02:08:36 Client socket created
+2024-10-31 02:08:36 ID from client received
+2024-10-31 02:08:36 [Uncritical]Unknown ID
+2024-10-31 02:15:24 Path to logfile set default value
+2024-10-31 02:15:24 Path to basefile set default value
+2024-10-31 02:15:24 Port set default value
+2024-10-31 02:15:24 Connect to database success!
+2024-10-31 02:15:24 Server started
+2024-10-31 02:15:24 listen socket created
+2024-10-31 02:15:24 bind success
+2024-10-31 02:15:34 Client socket created
+2024-10-31 02:15:34 ID from client received
+2024-10-31 02:15:34 [Uncritical]Unknown ID
+2024-10-31 02:16:52 Path to logfile set default value
+2024-10-31 02:16:52 Path to basefile set default value
+2024-10-31 02:16:52 Port set default value
+2024-10-31 02:16:52 Connect to database success!
+2024-10-31 02:16:52 Server started
+2024-10-31 02:16:52 listen socket created
+2024-10-31 02:16:52 bind success
+2024-10-31 02:16:59 Client socket created
+2024-10-31 02:16:59 ID from client received
+2024-10-31 02:16:59 [Uncritical]Unknown ID
+2024-10-31 02:17:42 Client socket created
+2024-10-31 02:17:42 ID from client received
+2024-10-31 02:17:42 [Uncritical]Unknown ID
+2024-10-31 02:31:06 Path to logfile set default value
+2024-10-31 02:31:06 Path to basefile set default value
+2024-10-31 02:31:06 Port set default value
+2024-10-31 02:31:06 Connect to database success!
+2024-10-31 02:31:06 Server started
+2024-10-31 02:31:06 listen socket created
+2024-10-31 02:31:06 bind success
+2024-10-31 02:31:14 Client socket created
+2024-10-31 02:31:14 ID from client received
+2024-10-31 02:31:14 [Uncritical]Unknown ID
+2024-10-31 10:45:13 Path to logfile set default value
+2024-10-31 10:45:13 Path to basefile set default value
+2024-10-31 10:45:13 Port set default value
+2024-10-31 10:45:13 Connect to database success!
+2024-10-31 10:45:13 Server started
+2024-10-31 10:45:13 listen socket created
+2024-10-31 10:45:13 bind success
+2024-10-31 10:47:22 Client socket created
+2024-10-31 10:47:22 ID from client received
+2024-10-31 10:47:22 [Uncritical]Unknown ID
+2024-10-31 10:54:33 Path to logfile set default value
+2024-10-31 10:54:33 Path to basefile set default value
+2024-10-31 10:54:33 Port set default value
+2024-10-31 10:54:33 Connect to database success!
+2024-10-31 10:54:33 Server started
+2024-10-31 10:54:33 listen socket created
+2024-10-31 10:54:33 Socket bind err
+2024-10-31 10:54:40 Client socket created
+2024-10-31 10:54:40 ID from client received
+2024-10-31 10:54:40 [Uncritical]Unknown ID
+2024-10-31 10:56:38 Path to logfile set default value
+2024-10-31 10:56:38 Path to basefile set default value
+2024-10-31 10:56:38 Port set default value
+2024-10-31 10:56:38 Connect to database success!
+2024-10-31 10:56:38 Server started
+2024-10-31 10:56:38 listen socket created
+2024-10-31 10:56:38 bind success
+2024-10-31 10:56:47 Client socket created
+2024-10-31 10:56:47 ID from client received
+2024-10-31 10:56:47 [Uncritical]Unknown ID
+2024-10-31 11:01:06 Path to logfile set default value
+2024-10-31 11:01:06 Path to basefile set default value
+2024-10-31 11:01:06 Port set default value
+2024-10-31 11:01:06 Connect to database success!
+2024-10-31 11:01:06 Server started
+2024-10-31 11:01:06 listen socket created
+2024-10-31 11:01:06 bind success
+2024-10-31 11:01:25 Client socket created
+2024-10-31 11:01:25 ID from client received
+2024-10-31 11:01:25 [Uncritical]Unknown ID
+2024-10-31 12:15:59 Path to logfile set default value
+2024-10-31 12:15:59 Path to basefile set default value
+2024-10-31 12:15:59 Port set default value
+2024-10-31 12:15:59 Connect to database success!
+2024-10-31 12:15:59 Server started
+2024-10-31 12:15:59 listen socket created
+2024-10-31 12:15:59 bind success
+2024-10-31 12:16:07 Client socket created
+2024-10-31 12:16:07 ID from client received
+2024-10-31 12:16:07 [Uncritical]Unknown ID
+2024-10-31 12:28:39 Path to logfile set default value
+2024-10-31 12:28:39 Path to basefile set default value
+2024-10-31 12:28:39 Port set default value
+2024-10-31 12:28:39 Connect to database success!
+2024-10-31 12:28:39 Server started
+2024-10-31 12:28:39 listen socket created
+2024-10-31 12:28:39 bind success
+2024-10-31 12:28:49 Client socket created
+2024-10-31 12:28:49 ID from client received
+2024-10-31 12:28:49 [Uncritical]Unknown ID
+2024-10-31 12:38:40 Path to logfile set default value
+2024-10-31 12:38:40 Path to basefile set default value
+2024-10-31 12:38:40 Port set default value
+2024-10-31 12:38:40 Connect to database success!
+2024-10-31 12:38:40 Server started
+2024-10-31 12:38:40 listen socket created
+2024-10-31 12:38:40 bind success
+2024-10-31 12:38:51 Client socket created
+2024-10-31 12:38:51 ID from client received
+2024-10-31 12:38:51 [Uncritical]Unknown ID
+2024-10-31 12:39:29 Path to logfile set default value
+2024-10-31 12:39:29 Path to basefile set default value
+2024-10-31 12:39:29 Port set default value
+2024-10-31 12:39:29 Connect to database success!
+2024-10-31 12:39:29 Server started
+2024-10-31 12:39:29 listen socket created
+2024-10-31 12:39:29 Socket bind err
+2024-10-31 12:44:22 Path to logfile set default value
+2024-10-31 12:44:22 Path to basefile set default value
+2024-10-31 12:44:22 Port set default value
+2024-10-31 12:44:22 Connect to database success!
+2024-10-31 12:44:22 Server started
+2024-10-31 12:44:22 listen socket created
+2024-10-31 12:44:22 bind success
+2024-10-31 12:44:40 Client socket created
+2024-10-31 12:44:40 ID from client received
+2024-10-31 12:44:40 [Uncritical]Unknown ID
+2024-10-31 12:49:46 Path to logfile set default value
+2024-10-31 12:49:46 Path to basefile set default value
+2024-10-31 12:49:46 Port set default value
+2024-10-31 12:49:46 Connect to database success!
+2024-10-31 12:49:46 Server started
+2024-10-31 12:49:46 listen socket created
+2024-10-31 12:49:46 bind success
+2024-10-31 12:50:01 Client socket created
+2024-10-31 12:50:01 Received ID: user15FC315695DFD8F4CF86BA4875B1C27DD9EAD9D29AD239C6
+2024-10-31 12:50:01 [Uncritical]Unknown ID
+2024-10-31 12:54:00 Path to logfile set default value
+2024-10-31 12:54:00 Path to basefile set default value
+2024-10-31 12:54:00 Port set default value
+2024-10-31 12:54:00 Connect to database success!
+2024-10-31 12:54:00 Server started
+2024-10-31 12:54:00 listen socket created
+2024-10-31 12:54:00 bind success
+2024-10-31 12:54:09 Client socket created
+2024-10-31 12:54:09 Received ID: userFEC35408DA711F4D2B83BF50948420A43B072C2A7A6368EB
+2024-10-31 12:54:09 [Uncritical]Unknown ID
+2024-10-31 12:57:17 Path to logfile set default value
+2024-10-31 12:57:17 Path to basefile set default value
+2024-10-31 12:57:17 Port set default value
+2024-10-31 12:57:17 Connect to database success!
+2024-10-31 12:57:17 Server started
+2024-10-31 12:57:17 listen socket created
+2024-10-31 12:57:17 bind success
+2024-10-31 12:57:26 Client socket created
+2024-10-31 12:57:26 Received ID: user5D3EAA20A1463AEC422D4E51574A7EB7B0DD4B5C0761C0E4
+2024-10-31 12:57:26 [Uncritical]Unknown ID
+2024-10-31 13:51:15 Path to logfile set default value
+2024-10-31 13:51:15 Path to basefile set default value
+2024-10-31 13:51:15 Port set default value
+2024-10-31 13:51:15 Connect to database success!
+2024-10-31 13:51:15 Server started
+2024-10-31 13:51:15 listen socket created
+2024-10-31 13:51:15 bind success
+2024-10-31 13:51:24 Client socket created
+2024-10-31 13:51:24 Received ID: user036954F7E14443D50DFAB88AEAED31121DCD781FCB7A7599
+2024-10-31 13:51:24 [Uncritical]Unknown ID
+2024-10-31 13:57:30 Path to logfile set default value
+2024-10-31 13:57:30 Path to basefile set default value
+2024-10-31 13:57:30 Port set default value
+2024-10-31 13:57:30 Connect to database success!
+2024-10-31 13:57:30 Server started
+2024-10-31 13:57:30 listen socket created
+2024-10-31 13:57:30 bind success
+2024-10-31 13:57:38 Client socket created
+2024-10-31 13:57:38 Received ID: userAB5FE44955E62B864B2343543054490FB8CE33D122AAD56E
+2024-10-31 13:57:38 [Uncritical]Unknown ID
+2024-10-31 14:00:41 Client socket created
+2024-10-31 14:00:41 Received ID: user905E9908AF3C68117BDF6F15C87108D96F4CBBD20D1B7D4E
+2024-10-31 14:00:41 [Uncritical]Unknown ID
+2024-10-31 14:09:04 Path to logfile set default value
+2024-10-31 14:09:04 Path to basefile set default value
+2024-10-31 14:09:04 Port set default value
+2024-10-31 14:09:04 Connect to database success!
+2024-10-31 14:09:04 Server started
+2024-10-31 14:09:04 listen socket created
+2024-10-31 14:09:04 bind success
+2024-10-31 14:09:12 Client socket created
+2024-10-31 14:09:12 Received ID: user5DD7CFEDC7BE24C2F9B550C161C63E4D1104646BFF68E5BD
+2024-10-31 14:09:12 [Uncritical]Unknown ID
+2024-10-31 18:35:03 Path to logfile set default value
+2024-10-31 18:35:03 Path to basefile set default value
+2024-10-31 18:35:03 Port set default value
+2024-10-31 18:35:03 Connect to database success!
+2024-10-31 18:35:03 Server started
+2024-10-31 18:35:03 listen socket created
+2024-10-31 18:35:03 bind success
+2024-10-31 18:35:12 Client socket created
+2024-10-31 18:35:12 Received client ID: user503704E3686509B8AA2316B9D0021716DDE0FEE1C341370F
+2024-10-31 18:35:12 [Uncritical]Unknown client ID
+2024-10-31 18:36:26 Client socket created
+2024-10-31 18:36:26 Received client ID: user
+2024-10-31 18:36:26 SALT sent: f7f70cf8aba716bb
+2024-10-31 18:36:26 Received hash from client: FFA4B6B4534932D8739AD0D91A9A85E1
+2024-10-31 18:36:26 Salt: f7f70cf8aba716bb
+2024-10-31 18:36:26 Password from database: P@ssW0rd
+2024-10-31 18:36:26 Salt + Password: f7f70cf8aba716bbP@ssW0rd
+2024-10-31 18:36:26 Correct hash: FFA4B6B4534932D8739AD0D91A9A85E1
+2024-10-31 18:36:26 Authentication successful
+2024-10-31 18:36:26 Sent response: OK____________
+2024-10-31 18:36:26 Vector count received: 4
+2024-10-31 18:36:26 Result of calculating vector 1 sent
+2024-10-31 18:36:26 Result of calculating vector 2 sent
+2024-10-31 18:36:26 Result of calculating vector 3 sent
+2024-10-31 18:36:26 Result of calculating vector 4 sent
+2024-10-31 18:36:26 Connection closed
+2024-10-31 18:56:47 Path to logfile set default value
+2024-10-31 18:56:47 Path to basefile set default value
+2024-10-31 18:56:47 Port set default value
+2024-10-31 18:56:47 Connect to database success!
+2024-10-31 18:56:47 Server started
+2024-10-31 18:56:47 listen socket created
+2024-10-31 18:56:47 bind success
+2024-10-31 18:56:56 Client socket created
+2024-10-31 18:56:56 Received client ID: user
+2024-10-31 18:56:56 SALT sent: cf45caa5d1c4a418
+2024-10-31 18:56:56 Received hash from client: B2A1CFFBF6D33970B5AF91B811376DC3
+2024-10-31 18:56:56 Salt: cf45caa5d1c4a418
+2024-10-31 18:56:56 Password from database: P@ssW0rd
+2024-10-31 18:56:56 Salt + Password: cf45caa5d1c4a418P@ssW0rd
+2024-10-31 18:56:56 Correct hash: B2A1CFFBF6D33970B5AF91B811376DC3
+2024-10-31 18:56:56 Authentication successful
+2024-10-31 18:56:56 Sent response: OK____________
+2024-10-31 18:56:56 Vector count received: 4
+2024-10-31 18:56:56 Result of calculating vector 1 sent
+2024-10-31 18:56:56 Result of calculating vector 2 sent
+2024-10-31 18:56:56 Result of calculating vector 3 sent
+2024-10-31 18:56:56 Result of calculating vector 4 sent
+2024-10-31 18:56:56 Connection closed
+2024-10-31 19:43:22 Path to logfile set default value
+2024-10-31 19:43:22 Path to basefile set default value
+2024-10-31 19:43:22 Port set default value
+2024-10-31 19:43:22 Connect to database success!
+2024-10-31 19:43:22 Server started
+2024-10-31 19:43:22 listen socket created
+2024-10-31 19:43:22 bind success
+2024-10-31 19:43:46 Client socket created
+2024-10-31 19:43:46 Received client ID: user
+2024-10-31 19:43:46 SALT sent: 0cd5c215ea6e29c8
+2024-10-31 19:43:46 Received hash from client: 78070BF23A7ED35CD501C4D79A29EB3B
+2024-10-31 19:43:46 Salt: 0cd5c215ea6e29c8
+2024-10-31 19:43:46 Password from database: P@ssW0rd
+2024-10-31 19:43:46 Salt + Password: 0cd5c215ea6e29c8P@ssW0rd
+2024-10-31 19:43:46 Correct hash: 78070BF23A7ED35CD501C4D79A29EB3B
+2024-10-31 19:43:46 Authentication successful
+2024-10-31 19:43:46 Sent response: OK____________
+2024-10-31 19:43:46 Vector count received: 4
+2024-10-31 19:43:47 Result of calculating vector 1 sent
+2024-10-31 19:43:47 Result of calculating vector 2 sent
+2024-10-31 19:43:47 Result of calculating vector 3 sent
+2024-10-31 19:43:47 Result of calculating vector 4 sent
+2024-10-31 19:43:47 Connection closed
+2024-11-12 19:37:00 Log path uses default setting
+2024-11-12 19:37:00 Database path uses default setting
+2024-11-12 19:37:00 Port uses default setting
+2024-11-12 19:37:00 Connected to database successfully!
+2024-11-12 19:37:00 Server operational
+2024-11-12 19:37:00 Socket created
+2024-11-12 19:37:00 Bind successful
+2024-11-12 19:38:47 Client socket accepted
+2024-11-12 19:38:47 Received client ID: user
+2024-11-12 19:38:47 Salt sent: 198272560a557253
+2024-11-12 19:38:47 Received client hash: 6925406D707C3495A5A13338D447DB55
+2024-11-12 19:38:47 Salt: 198272560a557253
+2024-11-12 19:38:47 Password: P@ssW0rd
+2024-11-12 19:38:47 Expected hash: 6925406D707C3495A5A13338D447DB55
+2024-11-12 19:38:47 Authentication successful
+2024-11-12 19:38:47 Response sent: OK____________
+2024-11-12 19:38:47 Vector count received: 4
+2024-11-12 19:38:47 Calculation result for vector 1 sent
+2024-11-12 19:38:47 Calculation result for vector 2 sent
+2024-11-12 19:38:47 Calculation result for vector 3 sent
+2024-11-12 19:38:47 Calculation result for vector 4 sent
+2024-11-12 19:38:47 Closed client connection
+2024-11-12 19:51:57 Log path uses default setting
+2024-11-12 19:51:57 Database path uses default setting
+2024-11-12 19:51:57 Port uses default setting
+2024-11-12 19:51:57 Connected to database successfully!
+2024-11-12 19:51:57 Server operational
+2024-11-12 19:51:57 Socket created
+2024-11-12 19:51:57 Bind successful
+2024-11-12 19:52:28 Log path uses default setting
+2024-11-12 19:52:28 Database path uses default setting
+2024-11-12 19:52:28 Port uses default setting
+2024-11-12 19:52:28 Connected to database successfully!
+2024-11-12 19:52:28 Server operational
+2024-11-12 19:52:28 Socket created
+2024-11-12 19:52:28 Bind successful
+2024-11-12 19:52:38 Client socket accepted
+2024-11-12 19:52:38 Received client ID: user
+2024-11-12 19:52:38 Salt sent: 84a1bad3461fccb0
+2024-11-12 19:52:38 Received client hash: 09C4410253597079C5B3C83E068A6DFC
+2024-11-12 19:52:38 Salt: 84a1bad3461fccb0
+2024-11-12 19:52:38 Password: P@ssW0rd
+2024-11-12 19:52:38 Expected hash: 09C4410253597079C5B3C83E068A6DFC
+2024-11-12 19:52:38 Authentication successful
+2024-11-12 19:52:38 Response sent: OK____________
+2024-11-12 19:52:38 Vector count received: 4
+2024-11-12 19:52:38 Calculation result for vector 1 sent
+2024-11-12 19:52:38 Calculation result for vector 2 sent
+2024-11-12 19:52:38 Calculation result for vector 3 sent
+2024-11-12 19:52:38 Calculation result for vector 4 sent
+2024-11-12 19:52:38 Closed client connection
+2024-11-13 01:14:45 Log path uses default setting
+2024-11-13 01:14:45 Database path uses default setting
+2024-11-13 01:14:45 Port uses default setting
+2024-11-13 01:14:45 Connected to database successfully!
+2024-11-13 01:14:45 Server operational
+2024-11-13 01:14:45 Socket created
+2024-11-13 01:14:45 Bind successful
+2024-11-13 01:15:07 Client socket accepted
+2024-11-13 01:15:07 Received client ID: user
+2024-11-13 01:15:07 Salt sent: c4699da8a20ec498
+2024-11-13 01:15:07 Received client hash: B0F1247C7F17B3E30D8BB5C7FB8FDC9C
+2024-11-13 01:15:07 Salt: c4699da8a20ec498
+2024-11-13 01:15:07 Password: P@ssW0rd
+2024-11-13 01:15:07 Expected hash: B0F1247C7F17B3E30D8BB5C7FB8FDC9C
+2024-11-13 01:15:07 Authentication successful
+2024-11-13 01:15:07 Response sent: OK____________
+2024-11-13 01:15:07 Vector count received: 4
+2024-11-13 01:15:07 Calculation result for vector 1 sent
+2024-11-13 01:15:07 Calculation result for vector 2 sent
+2024-11-13 01:15:07 Calculation result for vector 3 sent
+2024-11-13 01:15:07 Non-Critical Error: [Non-critical] Failed to receive vector size
+2024-11-13 01:17:47 Client socket accepted
+2024-11-13 01:17:47 Received client ID: user
+2024-11-13 01:17:47 Salt sent: 349d2900fe6675cc
+2024-11-13 01:17:47 Received client hash: 8F512D50FADEE2C0FD2892226B500DB50771DB43
+2024-11-13 01:17:47 Salt: 349d2900fe6675cc
+2024-11-13 01:17:47 Password: P@ssW0rd
+2024-11-13 01:17:47 Expected hash: 649F54F1BF01C3448B308CE5277D96F9
+2024-11-13 01:17:47 Authentication failed
+2024-11-13 01:17:47 Response sent: ERR___________
+2024-11-13 01:19:21 Client socket accepted
+2024-11-13 01:19:21 Received client ID: user
+2024-11-13 01:19:21 Salt sent: b5af9bfd2b1e48b6
+2024-11-13 01:19:21 Received client hash: 4A657938EFDCC6B0CE36034F9357FA18
+2024-11-13 01:19:21 Salt: b5af9bfd2b1e48b6
+2024-11-13 01:19:21 Password: P@ssW0rd
+2024-11-13 01:19:21 Expected hash: 4A657938EFDCC6B0CE36034F9357FA18
+2024-11-13 01:19:21 Authentication successful
+2024-11-13 01:19:21 Response sent: OK____________
+2024-11-13 01:19:21 Vector count received: 4
+2024-11-13 01:19:21 Calculation result for vector 1 sent
+2024-11-13 01:19:21 Calculation result for vector 2 sent
+2024-11-13 01:19:21 Calculation result for vector 3 sent
+2024-11-13 01:19:21 Calculation result for vector 4 sent
+2024-11-13 01:19:21 Closed client connection
+2024-11-13 01:42:04 Log path uses default setting
+2024-11-13 01:42:04 Database path uses default setting
+2024-11-13 01:42:04 Port uses default setting
+2024-11-13 01:42:04 Connected to database successfully!
+2024-11-13 01:42:04 Server operational
+2024-11-13 01:42:04 Socket created
+2024-11-13 01:42:04 Bind successful
+2024-11-13 01:42:04 Server is listening on port 33333...
+2024-11-13 01:42:17 Error: Data length mismatch or invalid data type.
+2024-11-13 01:42:25 Error: Data length mismatch or invalid data type.
+2024-11-13 01:42:36 Error: Data length mismatch or invalid data type.
+2024-11-13 01:42:44 Error: Data length mismatch or invalid data type.
+2024-11-13 02:06:44 Log path uses default setting
+2024-11-13 02:06:44 Database path uses default setting
+2024-11-13 02:06:44 Port uses default setting
+2024-11-13 02:06:44 Connected to database successfully!
+2024-11-13 02:06:44 Server operational
+2024-11-13 02:06:44 Socket created
+2024-11-13 02:06:44 Bind successful
+2024-11-13 02:06:44 Server is listening on port 33333...
+2024-11-13 02:06:58 Received client ID: user
+2024-11-13 02:06:58 SALT sent: 2ae8c79f06ccc209
+2024-11-13 02:06:58 Received int64_t value: 4774719645251155248
+2024-11-13 02:07:27 Log path uses default setting
+2024-11-13 02:07:27 Database path uses default setting
+2024-11-13 02:07:27 Port uses default setting
+2024-11-13 02:07:27 Connected to database successfully!
+2024-11-13 02:07:27 Server operational
+2024-11-13 02:07:27 Socket created
+2024-11-13 02:07:27 Bind successful
+2024-11-13 02:07:27 Server is listening on port 33333...
+2024-11-13 02:07:39 Received client ID: user
+2024-11-13 02:07:39 SALT sent: b88f89cd147f0dae
+2024-11-13 02:07:39 Received int64_t value: 4122823581657089337
+2024-11-13 02:17:47 Log path uses default setting
+2024-11-13 02:17:47 Database path uses default setting
+2024-11-13 02:17:47 Port uses default setting
+2024-11-13 02:17:47 Connected to database successfully!
+2024-11-13 02:17:47 Server operational
+2024-11-13 02:17:47 Socket created
+2024-11-13 02:17:47 Bind successful
+2024-11-13 02:17:47 Server is listening on port 33333...
+2024-11-13 02:17:56 Received client ID: user
+2024-11-13 02:17:56 SALT sent: de4ba6af00001536
+2024-11-13 02:17:56 Client authenticated successfully.
+2024-11-13 02:18:15 Error: Data length mismatch or invalid data type.
+2024-11-13 02:18:22 Received client ID: user
+2024-11-13 02:18:22 SALT sent: 5997eb463d745730
+2024-11-13 02:18:22 Client authenticated successfully.
+2024-11-13 02:18:27 Error: Data length mismatch or invalid data type.
+2024-11-13 02:18:31 Received client ID: user
+2024-11-13 02:18:31 SALT sent: 83f72eb79fd1752e
+2024-11-13 02:18:31 Client authenticated successfully.
+2024-11-13 02:24:07 Error: Data length mismatch or invalid data type.
+2024-11-13 02:25:08 Log path uses default setting
+2024-11-13 02:25:08 Database path uses default setting
+2024-11-13 02:25:08 Port uses default setting
+2024-11-13 02:25:08 Connected to database successfully!
+2024-11-13 02:25:08 Server operational
+2024-11-13 02:25:08 Socket created
+2024-11-13 02:25:08 Bind successful
+2024-11-13 02:25:08 Server is listening on port 33333...
+2024-11-13 02:25:17 Received client ID: user
+2024-11-13 02:25:17 SALT sent: ecf9f362437f0e2c
+2024-11-13 02:25:17 Client authenticated successfully.
+2024-11-13 02:25:17 Error: Data length mismatch or invalid data type.
+2024-11-13 02:34:42 Log path uses default setting
+2024-11-13 02:34:42 Database path uses default setting
+2024-11-13 02:34:42 Port uses default setting
+2024-11-13 02:34:42 Connected to database successfully!
+2024-11-13 02:34:42 Server operational
+2024-11-13 02:34:42 Socket created
+2024-11-13 02:34:42 Critical Error: Binding socket failed
+2024-11-13 02:34:52 Received client ID: user
+2024-11-13 02:34:52 SALT sent: 70f476f2b05c9e2e
+2024-11-13 02:34:52 Client authenticated successfully.
+2024-11-13 02:34:52 Error: Data length mismatch or invalid data type.
+2024-11-13 02:35:43 Log path uses default setting
+2024-11-13 02:35:43 Database path uses default setting
+2024-11-13 02:35:43 Port uses default setting
+2024-11-13 02:35:43 Connected to database successfully!
+2024-11-13 02:35:43 Server operational
+2024-11-13 02:35:43 Socket created
+2024-11-13 02:35:43 Critical Error: Binding socket failed
+2024-11-13 02:35:52 Received client ID: user
+2024-11-13 02:35:52 SALT sent: 11d603ce5ad471f2
+2024-11-13 02:35:52 Client authenticated successfully.
+2024-11-13 02:35:52 Error: Data length mismatch or invalid data type.
+2024-11-13 02:43:36 Log path uses default setting
+2024-11-13 02:43:36 Database path uses default setting
+2024-11-13 02:43:36 Port uses default setting
+2024-11-13 02:43:36 Connected to database successfully!
+2024-11-13 02:43:36 Server operational
+2024-11-13 02:43:36 Socket created
+2024-11-13 02:43:36 Bind successful
+2024-11-13 02:43:36 Server is listening on port 33333...
+2024-11-13 02:43:47 Received client ID: user
+2024-11-13 02:43:47 SALT sent: 73650adc1eaa969d
+2024-11-13 02:43:47 Client authenticated successfully.
+2024-11-13 02:43:47 Error: Data length mismatch or invalid data type.
+2024-11-13 02:57:55 Log path uses default setting
+2024-11-13 02:57:55 Database path uses default setting
+2024-11-13 02:57:55 Port uses default setting
+2024-11-13 02:57:55 Connected to database successfully!
+2024-11-13 02:57:55 Server operational
+2024-11-13 02:57:55 Socket created
+2024-11-13 02:57:55 Bind successful
+2024-11-13 02:57:55 Server is listening on port 33333...
+2024-11-13 02:58:06 Received client ID: user
+2024-11-13 02:58:06 SALT sent: 15e3546bc882e4fe
+2024-11-13 02:58:06 Client authenticated successfully.
+2024-11-13 02:58:06 Number of vectors: 4
+2024-11-13 02:58:06 Size of vector 1: 4
+2024-11-13 02:58:06 Result sent for vector 1: 30
+2024-11-13 02:58:06 Size of vector 2: 4
+2024-11-13 02:58:06 Result sent for vector 2: 45200000000
+2024-11-13 02:58:06 Size of vector 3: 4
+2024-11-13 02:58:06 Result sent for vector 3: 47700000000
+2024-11-13 02:58:06 Size of vector 4: 4
+2024-11-13 02:58:06 Result sent for vector 4: 126000000
+2024-11-13 02:58:40 Received client ID: user
+2024-11-13 02:58:40 SALT sent: c0e331c71e053754
+2024-11-13 02:58:40 Client authenticated successfully.
+2024-11-13 02:58:40 Number of vectors: 4
+2024-11-13 02:58:40 Size of vector 1: 4
+2024-11-13 02:58:40 Result sent for vector 1: 120259084298
+2024-11-13 02:58:40 Size of vector 2: 4
+2024-11-13 02:58:40 Result sent for vector 2: 2955212377862944016
+2024-11-13 02:58:40 Size of vector 3: 13000
+2024-11-13 02:58:40 Result sent for vector 3: 257457519665424016
+2024-11-13 02:58:40 Error: Failed to receive vector size.
+2024-11-13 02:58:49 Received client ID: user
+2024-11-13 02:58:49 SALT sent: 28d5c344f86d16bf
+2024-11-13 02:58:49 Client authenticated successfully.
+2024-11-13 02:58:49 Number of vectors: 4
+2024-11-13 02:58:49 Size of vector 1: 4
+2024-11-13 02:58:49 Result sent for vector 1: 120259084298
+2024-11-13 02:58:49 Size of vector 2: 4
+2024-11-13 02:58:49 Result sent for vector 2: 2955212377862944016
+2024-11-13 02:58:49 Size of vector 3: 13000
+2024-11-13 02:58:49 Result sent for vector 3: 257457519665424016
+2024-11-13 02:58:49 Error: Failed to receive vector size.
+2024-11-13 02:59:03 Received client ID: user
+2024-11-13 02:59:03 SALT sent: 5d0f682d80e98ced
+2024-11-13 02:59:03 Error: Invalid hash from client.
+2024-11-13 03:11:58 Log path uses default setting
+2024-11-13 03:11:58 Database path uses default setting
+2024-11-13 03:11:58 Port uses default setting
+2024-11-13 03:11:58 Connected to database successfully!
+2024-11-13 03:11:58 Server operational
+2024-11-13 03:11:58 Socket created
+2024-11-13 03:11:58 Bind successful
+2024-11-13 03:11:58 Server is listening on port 33333...
+2024-11-13 03:12:08 Received client ID: user
+2024-11-13 03:12:08 SALT sent: 227e0ae16649017a
+2024-11-13 03:12:08 Client authenticated successfully.
+2024-11-13 03:12:08 Number of vectors: 4
+2024-11-13 03:12:08 Size of vector 1: 4
+2024-11-13 03:12:08 Result sent for vector 1: 30
+2024-11-13 03:12:08 Size of vector 2: 4
+2024-11-13 03:12:08 Result sent for vector 2: 45200000000
+2024-11-13 03:12:08 Size of vector 3: 4
+2024-11-13 03:12:08 Result sent for vector 3: 47700000000
+2024-11-13 03:12:08 Size of vector 4: 4
+2024-11-13 03:12:08 Result sent for vector 4: 126000000
+2024-11-13 03:12:16 Received client ID: user
+2024-11-13 03:12:16 SALT sent: aded0e62d92724ce
+2024-11-13 03:12:16 Error: Invalid hash from client.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 2024-11-13 20:31:36 Log path uses default setting
+2024-11-13 20:31:36 Database path uses default setting
+2024-11-13 20:31:36 Port uses default setting
+2024-11-13 20:31:36 Connected to database successfully!
+2024-11-13 20:31:36 Server operational
+2024-11-13 20:31:36 Socket created
+2024-11-13 20:31:36 Bind successful
+2024-11-13 20:31:36 Server is listening on port 33333...
+2024-11-13 20:31:44 Received client ID: user
+2024-11-13 20:31:44 SALT sent: 00874c94cb45aa01
+2024-11-13 20:31:44 Error: Invalid hash from client.
+2024-11-13 20:31:58 Received client ID: user
+2024-11-13 20:31:58 SALT sent: 94f623884ac29762
+2024-11-13 20:31:58 Client authenticated successfully.
+2024-11-13 20:31:58 Number of vectors: 4
+2024-11-13 20:31:58 Size of vector 1: 4
+2024-11-13 20:31:58 Result sent for vector 1: 120259084298
+2024-11-13 20:31:58 Size of vector 2: 4
+2024-11-13 20:31:58 Result sent for vector 2: 2955212377862944016
+2024-11-13 20:31:58 Size of vector 3: 13000
+2024-11-13 20:31:58 Result sent for vector 3: 257457519665424016
+2024-11-13 20:31:58 Error: Failed to receive vector size.
+2024-11-13 20:32:09 Received client ID: user
+2024-11-13 20:32:09 SALT sent: d82f8e59f6383025
+2024-11-13 20:32:09 Client authenticated successfully.
+2024-11-13 20:32:09 Number of vectors: 4
+2024-11-13 20:32:09 Size of vector 1: 4
+2024-11-13 20:32:09 Result sent for vector 1: 30
+2024-11-13 20:32:09 Size of vector 2: 4
+2024-11-13 20:32:09 Result sent for vector 2: 45200000000
+2024-11-13 20:32:09 Size of vector 3: 4
+2024-11-13 20:32:09 Result sent for vector 3: 47700000000
+2024-11-13 20:32:09 Size of vector 4: 4
+2024-11-13 20:32:09 Result sent for vector 4: 126000000
+2024-11-13 20:38:42 Log path uses default setting
+2024-11-13 20:38:42 Database path uses default setting
+2024-11-13 20:38:42 Port uses default setting
+2024-11-13 20:38:42 Connected to database successfully!
+2024-11-13 20:38:42 Server operational
+2024-11-13 20:38:42 Socket created
+2024-11-13 20:38:42 Bind successful
+2024-11-13 20:38:52 Client socket accepted
+2024-11-13 20:38:52 Received client ID: user
+2024-11-13 20:38:52 Salt sent: 12b3e80b14e3f537
+2024-11-13 20:38:52 Received client hash: 9584C9CE1DDDEF0BBF015E0EE8AA2727
+2024-11-13 20:38:52 Salt: 12b3e80b14e3f537
+2024-11-13 20:38:52 Password: P@ssW0rd
+2024-11-13 20:38:52 Expected hash: 9584C9CE1DDDEF0BBF015E0EE8AA2727
+2024-11-13 20:38:52 Authentication successful
+2024-11-13 20:38:52 Response sent: OK____________
+2024-11-13 20:38:52 Vector count received: 4
+2024-11-13 20:38:52 Calculation result for vector 1 sent
+2024-11-13 20:38:52 Calculation result for vector 2 sent
+2024-11-13 20:38:52 Calculation result for vector 3 sent
+2024-11-13 20:38:52 Calculation result for vector 4 sent
+2024-11-13 20:38:52 Closed client connection
+2024-11-13 20:38:57 Client socket accepted
+2024-11-13 20:38:57 Received client ID: user
+2024-11-13 20:38:57 Salt sent: 4519e9bf41a96074
+2024-11-13 20:38:57 Received client hash: 618D742CADC85425270EF05884F6B387
+2024-11-13 20:38:57 Salt: 4519e9bf41a96074
+2024-11-13 20:38:57 Password: P@ssW0rd
+2024-11-13 20:38:57 Expected hash: 618D742CADC85425270EF05884F6B387
+2024-11-13 20:38:57 Authentication successful
+2024-11-13 20:38:57 Response sent: OK____________
+2024-11-13 20:38:57 Vector count received: 4
+2024-11-13 20:38:57 Calculation result for vector 1 sent
+2024-11-13 20:38:57 Calculation result for vector 2 sent
+2024-11-13 20:38:57 Calculation result for vector 3 sent
+2024-11-13 20:38:57 Non-Critical Error: [Non-critical] Failed to receive vector size
+2024-11-13 20:39:23 Client socket accepted
+2024-11-13 20:39:23 Received client ID: user
+2024-11-13 20:39:23 Salt sent: 4bbc4443999ec714
+2024-11-13 20:39:23 Received client hash: 20647C69C9D498D5228007EB2B41E50B5B67EC92
+2024-11-13 20:39:23 Salt: 4bbc4443999ec714
+2024-11-13 20:39:23 Password: P@ssW0rd
+2024-11-13 20:39:23 Expected hash: 55F2E8497AF2DDC8D5511F8145546D14
+2024-11-13 20:39:23 Authentication failed
+2024-11-13 20:39:23 Response sent: ERR___________
+2024-11-13 20:39:49 Client socket accepted
+2024-11-13 20:39:49 Received client ID: user
+2024-11-13 20:39:49 Salt sent: c8dec713151d2381
+2024-11-13 20:39:49 Received client hash: 2A741A15C90B16F39B2616FE0ACC0444
+2024-11-13 20:39:49 Salt: c8dec713151d2381
+2024-11-13 20:39:49 Password: P@ssW0rd
+2024-11-13 20:39:49 Expected hash: 2A741A15C90B16F39B2616FE0ACC0444
+2024-11-13 20:39:49 Authentication successful
+2024-11-13 20:39:49 Response sent: OK____________
+2024-11-13 20:39:49 Vector count received: 4
+2024-11-13 20:39:49 Calculation result for vector 1 sent
+2024-11-13 20:39:49 Calculation result for vector 2 sent
+2024-11-13 20:39:49 Calculation result for vector 3 sent
+2024-11-13 20:39:49 Calculation result for vector 4 sent
+2024-11-13 20:39:49 Closed client connection
+2024-11-13 21:33:04 Log path uses default setting
+2024-11-13 21:33:04 Database path uses default setting
+2024-11-13 21:33:04 Port uses default setting
+2024-11-13 21:33:04 Connected to database successfully!
+2024-11-13 21:33:04 Server operational
+2024-11-13 21:50:46 Log path uses default setting
+2024-11-13 21:50:46 Database path uses default setting
+2024-11-13 21:50:46 Port uses default setting
+2024-11-13 21:50:46 Connected to database successfully!
+2024-11-13 21:50:46 Server operational
+2024-11-13 21:51:02 Failed to receive hash
+2024-11-13 21:52:00 Failed to receive hash
+2024-11-13 21:52:09 Failed to receive hash
+2024-11-13 21:56:45 Log path uses default setting
+2024-11-13 21:56:45 Database path uses default setting
+2024-11-13 21:56:45 Port uses default setting
+2024-11-13 21:56:45 Connected to database successfully!
+2024-11-13 21:56:45 Server operational
+2024-11-13 21:56:45 Critical Error: Binding socket failed
+2024-11-13 21:56:57 Log path uses default setting
+2024-11-13 21:56:57 Database path uses default setting
+2024-11-13 21:56:57 Port uses default setting
+2024-11-13 21:56:57 Connected to database successfully!
+2024-11-13 21:56:57 Server operational
+2024-11-13 21:56:57 Critical Error: Binding socket failed
+2024-11-13 21:57:10 Failed to receive hash
+2024-11-13 21:59:12 Log path uses default setting
+2024-11-13 21:59:12 Database path uses default setting
+2024-11-13 21:59:12 Port uses default setting
+2024-11-13 21:59:12 Connected to database successfully!
+2024-11-13 21:59:12 Server operational
+2024-11-13 21:59:22 Failed to receive hash
+2024-11-13 21:59:58 Failed to receive hash
+2024-11-13 22:00:05 Failed to receive hash
+2024-11-13 22:09:07 Log path uses default setting
+2024-11-13 22:09:07 Database path uses default setting
+2024-11-13 22:09:07 Port uses default setting
+2024-11-13 22:09:07 Connected to database successfully!
+2024-11-13 22:09:07 Server operational
+2024-11-13 22:09:15 Failed to receive hash
+2024-11-13 22:09:50 Failed to receive hash
+2024-11-13 22:35:56 Log path uses default setting
+2024-11-13 22:35:56 Database path uses default setting
+2024-11-13 22:35:56 Port uses default setting
+2024-11-13 22:35:56 Connected to database successfully!
+2024-11-13 22:35:56 Server operational
+2024-11-13 22:36:07 Failed to receive hash
+2024-11-13 22:40:11 Log path uses default setting
+2024-11-13 22:40:11 Database path uses default setting
+2024-11-13 22:40:11 Port uses default setting
+2024-11-13 22:40:11 Connected to database successfully!
+2024-11-13 22:40:11 Server operational
+2024-11-13 22:40:11 Socket created
+2024-11-13 22:40:11 Bind successful
+2024-11-13 22:40:19 Client socket accepted
+2024-11-13 22:40:19 Received client ID: user
+2024-11-13 22:40:19 Salt sent: f3e390b087184e28
+2024-11-13 22:40:19 Received client hash: E8696667F3718F45B78BC4754D07E918
+2024-11-13 22:40:19 Salt: f3e390b087184e28
+2024-11-13 22:40:19 Password: P@ssW0rd
+2024-11-13 22:40:19 Expected hash: E8696667F3718F45B78BC4754D07E918
+2024-11-13 22:40:19 Authentication successful
+2024-11-13 22:40:19 Response sent: OK____________
+2024-11-13 22:40:19 Vector count received: 4
+2024-11-13 22:40:19 Calculation result for vector 1 sent
+2024-11-13 22:40:19 Calculation result for vector 2 sent
+2024-11-13 22:40:19 Calculation result for vector 3 sent
+2024-11-13 22:40:19 Calculation result for vector 4 sent
+2024-11-13 22:40:19 Closed client connection
+2024-11-13 22:40:40 Client socket accepted
+2024-11-13 22:40:40 Received client ID: user
+2024-11-13 22:40:40 Salt sent: de8f1d86a49c71f3
+2024-11-13 22:40:40 Received client hash: CDCD36D9EADE44B0A4FA6C7CEA45DF47574B6377209659FE295FCBB1F894EAF
+2024-11-13 22:40:40 Salt: de8f1d86a49c71f3
+2024-11-13 22:40:40 Password: P@ssW0rd
+2024-11-13 22:40:40 Expected hash: 5461B66A18826F957AF3A090F34FA4C8
+2024-11-13 22:40:40 Authentication failed
+2024-11-13 22:40:40 Response sent: ERR___________
+2024-11-13 22:40:55 Client socket accepted
+2024-11-13 22:40:55 Received client ID: user
+2024-11-13 22:40:55 Salt sent: cb777d86c24bde0d
+2024-11-13 22:40:55 Received client hash: A3AFE974FA54A29C990717422C8F1EAC
+2024-11-13 22:40:55 Salt: cb777d86c24bde0d
+2024-11-13 22:40:55 Password: P@ssW0rd
+2024-11-13 22:40:55 Expected hash: A3AFE974FA54A29C990717422C8F1EAC
+2024-11-13 22:40:55 Authentication successful
+2024-11-13 22:40:55 Response sent: OK____________
+2024-11-13 22:40:55 Vector count received: 4
+2024-11-13 22:40:55 Calculation result for vector 1 sent
+2024-11-13 22:40:55 Calculation result for vector 2 sent
+2024-11-13 22:40:55 Calculation result for vector 3 sent
+2024-11-13 22:40:55 Non-Critical Error: [Non-critical] Failed to receive vector size
+2024-11-13 22:41:30 Client socket accepted
+2024-11-13 22:41:30 Received client ID: user
+2024-11-13 22:41:30 Salt sent: 6f297d0e8fc1bd20
+2024-11-13 22:41:30 Received client hash: 347349AF44701380C940D8C8812E3019
+2024-11-13 22:41:30 Salt: 6f297d0e8fc1bd20
+2024-11-13 22:41:30 Password: P@ssW0rd
+2024-11-13 22:41:30 Expected hash: 347349AF44701380C940D8C8812E3019
+2024-11-13 22:41:30 Authentication successful
+2024-11-13 22:41:30 Response sent: OK____________
+2024-11-13 22:41:30 Vector count received: 4
+2024-11-13 22:41:30 Calculation result for vector 1 sent
+2024-11-13 22:41:30 Calculation result for vector 2 sent
+2024-11-13 22:41:30 Calculation result for vector 3 sent
+2024-11-13 22:41:30 Calculation result for vector 4 sent
+2024-11-13 22:41:30 Closed client connection
+2024-11-13 22:44:49 Client socket accepted
+2024-11-13 22:44:49 Received client ID: user
+2024-11-13 22:44:49 Salt sent: 6a2fe3e3766e4308
+2024-11-13 22:44:49 Received client hash: D7F34A30623713DAA89EF56B67AC8440
+2024-11-13 22:44:49 Salt: 6a2fe3e3766e4308
+2024-11-13 22:44:49 Password: P@ssW0rd
+2024-11-13 22:44:49 Expected hash: D7F34A30623713DAA89EF56B67AC8440
+2024-11-13 22:44:49 Authentication successful
+2024-11-13 22:44:49 Response sent: OK____________
+2024-11-13 22:44:49 Vector count received: 4
+2024-11-13 22:44:49 Calculation result for vector 1 sent
+2024-11-13 22:44:49 Calculation result for vector 2 sent
+2024-11-13 22:44:49 Calculation result for vector 3 sent
+2024-11-13 22:44:49 Calculation result for vector 4 sent
+2024-11-13 22:44:49 Closed client connection
+2024-11-13 22:59:57 Log path uses default setting
+2024-11-13 22:59:57 Database path uses default setting
+2024-11-13 22:59:57 Port uses default setting
+2024-11-13 22:59:57 Connected to database successfully!
+2024-11-13 22:59:57 Server operational
+2024-11-13 22:59:57 Socket created
+2024-11-13 22:59:57 Bind successful
+2024-11-13 23:00:14 Client socket accepted
+2024-11-13 23:00:14 Received client ID: user
+2024-11-13 23:00:14 Salt sent: 9c6dc8ece75af40c
+2024-11-13 23:00:14 Received client hash: 371466169E98234E1AF8210720F68213
+2024-11-13 23:00:14 Salt: 9c6dc8ece75af40c
+2024-11-13 23:00:14 Password: P@ssW0rd
+2024-11-13 23:00:14 Expected hash: 371466169E98234E1AF8210720F68213
+2024-11-13 23:00:14 Authentication successful
+2024-11-13 23:00:14 Response sent: OK____________
+2024-11-13 23:00:14 Vector count received: 4
+2024-11-13 23:00:14 Calculation result for vector 1 sent
+2024-11-13 23:00:14 Calculation result for vector 2 sent
+2024-11-13 23:00:14 Calculation result for vector 3 sent
+2024-11-13 23:00:14 Calculation result for vector 4 sent
+2024-11-13 23:00:14 Closed client connection
+2024-11-13 23:00:25 Client socket accepted
+2024-11-13 23:00:25 Received client ID: user
+2024-11-13 23:00:25 Salt sent: 7bee0023dfb4e9df
+2024-11-13 23:00:25 Received client hash: 919C70E5A05682169A1D85E85B81DDE3
+2024-11-13 23:00:25 Salt: 7bee0023dfb4e9df
+2024-11-13 23:00:25 Password: P@ssW0rd
+2024-11-13 23:00:25 Expected hash: 919C70E5A05682169A1D85E85B81DDE3
+2024-11-13 23:00:25 Authentication successful
+2024-11-13 23:00:25 Response sent: OK____________
+2024-11-13 23:00:25 Vector count received: 4
+2024-11-13 23:00:25 Calculation result for vector 1 sent
+2024-11-13 23:00:25 Calculation result for vector 2 sent
+2024-11-13 23:00:25 Calculation result for vector 3 sent
+2024-11-13 23:00:25 Calculation result for vector 4 sent
+2024-11-13 23:00:25 Closed client connection
+2024-11-13 23:00:51 Client socket accepted
+2024-11-13 23:00:51 Received client ID: user
+2024-11-13 23:00:51 Salt sent: 958dfe65c6736f53
+2024-11-13 23:00:51 Received client hash: 5118E9DBE2E2D9316C5D73077310275A
+2024-11-13 23:00:51 Salt: 958dfe65c6736f53
+2024-11-13 23:00:51 Password: P@ssW0rd
+2024-11-13 23:00:51 Expected hash: 5118E9DBE2E2D9316C5D73077310275A
+2024-11-13 23:00:51 Authentication successful
+2024-11-13 23:00:51 Response sent: OK____________
+2024-11-13 23:00:51 Vector count received: 4
+2024-11-13 23:00:51 Non-Critical Error: [Non-critical] Failed to receive complete vector data
+2024-11-13 23:02:57 Log path uses default setting
+2024-11-13 23:02:57 Database path uses default setting
+2024-11-13 23:02:57 Port uses default setting
+2024-11-13 23:02:57 Connected to database successfully!
+2024-11-13 23:02:57 Server operational
+2024-11-13 23:02:57 Socket created
+2024-11-13 23:02:57 Bind successful
+2024-11-13 23:03:17 Client socket accepted
+2024-11-13 23:03:17 Received client ID: user
+2024-11-13 23:03:17 Salt sent: df779b6509e7dd12
+2024-11-13 23:03:17 Received client hash: 59BE11BB01C1476DDBDA087713CA2562
+2024-11-13 23:03:17 Salt: df779b6509e7dd12
+2024-11-13 23:03:17 Password: P@ssW0rd
+2024-11-13 23:03:17 Expected hash: 59BE11BB01C1476DDBDA087713CA2562
+2024-11-13 23:03:17 Authentication successful
+2024-11-13 23:03:17 Response sent: OK____________
+2024-11-13 23:03:17 Vector count received: 4
+2024-11-13 23:03:17 Non-Critical Error: [Non-critical] Failed to receive complete vector data
+2024-11-13 23:03:37 Client socket accepted
+2024-11-13 23:03:37 Received client ID: user
+2024-11-13 23:03:37 Salt sent: 2dab6f62de9e01c4
+2024-11-13 23:03:37 Received client hash: DF77807ADD86F7AF0A0892FE071C4B26
+2024-11-13 23:03:37 Salt: 2dab6f62de9e01c4
+2024-11-13 23:03:37 Password: P@ssW0rd
+2024-11-13 23:03:37 Expected hash: DF77807ADD86F7AF0A0892FE071C4B26
+2024-11-13 23:03:37 Authentication successful
+2024-11-13 23:03:37 Response sent: OK____________
+2024-11-13 23:03:37 Vector count received: 4
+2024-11-13 23:03:37 Calculation result for vector 1 sent
+2024-11-13 23:03:37 Calculation result for vector 2 sent
+2024-11-13 23:03:37 Calculation result for vector 3 sent
+2024-11-13 23:03:37 Calculation result for vector 4 sent
+2024-11-13 23:03:37 Closed client connection
+2024-11-13 23:04:13 Client socket accepted
+2024-11-13 23:04:13 Received client ID: user
+2024-11-13 23:04:13 Salt sent: bc2c2d8b6db76c33
+2024-11-13 23:04:13 Received client hash: E4C77C716BB02F89075DC1843629CD1C
+2024-11-13 23:04:13 Salt: bc2c2d8b6db76c33
+2024-11-13 23:04:13 Password: P@ssW0rd
+2024-11-13 23:04:13 Expected hash: E4C77C716BB02F89075DC1843629CD1C
+2024-11-13 23:04:13 Authentication successful
+2024-11-13 23:04:13 Response sent: OK____________
+2024-11-13 23:04:13 Vector count received: 4
+2024-11-13 23:04:13 Non-Critical Error: [Non-critical] Failed to receive complete vector data
+2024-11-13 23:04:53 Client socket accepted
+2024-11-13 23:04:53 Received client ID: user
+2024-11-13 23:04:53 Salt sent: 74b58f9d4b64ca26
+2024-11-13 23:04:53 Received client hash: E01206FFE2D694FD4CE0B034E290C982
+2024-11-13 23:04:53 Salt: 74b58f9d4b64ca26
+2024-11-13 23:04:53 Password: P@ssW0rd
+2024-11-13 23:04:53 Expected hash: E01206FFE2D694FD4CE0B034E290C982
+2024-11-13 23:04:53 Authentication successful
+2024-11-13 23:04:53 Response sent: OK____________
+2024-11-13 23:04:53 Vector count received: 4
+2024-11-13 23:04:53 Non-Critical Error: [Non-critical] Failed to receive complete vector data
+2024-11-13 23:05:37 Client socket accepted
+2024-11-13 23:05:37 Received client ID: user
+2024-11-13 23:05:37 Salt sent: de650f69f9c6ef34
+2024-11-13 23:05:37 Received client hash: 3BAE4D64B393E58897BA7BA294855485
+2024-11-13 23:05:37 Salt: de650f69f9c6ef34
+2024-11-13 23:05:37 Password: P@ssW0rd
+2024-11-13 23:05:37 Expected hash: 3BAE4D64B393E58897BA7BA294855485
+2024-11-13 23:05:37 Authentication successful
+2024-11-13 23:05:37 Response sent: OK____________
+2024-11-13 23:05:37 Vector count received: 4
+2024-11-13 23:05:37 Calculation result for vector 1 sent
+2024-11-13 23:05:37 Calculation result for vector 2 sent
+2024-11-13 23:05:37 Calculation result for vector 3 sent
+2024-11-13 23:05:37 Calculation result for vector 4 sent
+2024-11-13 23:05:37 Closed client connection
+2024-11-13 23:06:11 Client socket accepted
+2024-11-13 23:06:11 Received client ID: user
+2024-11-13 23:06:11 Salt sent: 46588f2cb91c7a4c
+2024-11-13 23:06:11 Received client hash: 4995C595BD474A5CE5091847D5490A9C
+2024-11-13 23:06:11 Salt: 46588f2cb91c7a4c
+2024-11-13 23:06:11 Password: P@ssW0rd
+2024-11-13 23:06:11 Expected hash: 4995C595BD474A5CE5091847D5490A9C
+2024-11-13 23:06:11 Authentication successful
+2024-11-13 23:06:11 Response sent: OK____________
+2024-11-13 23:06:11 Vector count received: 4
+2024-11-13 23:06:12 Calculation result for vector 1 sent
+2024-11-13 23:06:12 Calculation result for vector 2 sent
+2024-11-13 23:06:12 Calculation result for vector 3 sent
+2024-11-13 23:06:12 Calculation result for vector 4 sent
+2024-11-13 23:06:12 Closed client connection
