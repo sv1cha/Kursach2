@@ -3,6 +3,7 @@
 #include "ConnectorRefactored.h"
 #include "LoggerRefactored.h"
 #include "ClientHandler.h"
+#include "InterfaceRefactored.h"
 #include <chrono>
 #include <thread>
 
@@ -71,6 +72,28 @@ SUITE(ClientHandler_test) {
         std::string hash1 = ClientHandler::compute_md5(test_input);
         std::string hash2 = ClientHandler::compute_md5(test_input);
         CHECK_EQUAL(hash1, hash2);
+    }
+}
+
+// Test for InterfaceRefactored
+
+SUITE(InterfaceRefactored_test) {
+    TEST(default_options) {
+        const char* argv[] = {"program"};
+        InterfaceRefactored interface;
+        CHECK_EQUAL(0, interface.process_command(1, argv, true));
+    }
+
+    TEST(custom_database_path) {
+        const char* argv[] = {"program", "--database", "/home/stud/kursach2/base/test_files/base.txt"};
+        InterfaceRefactored interface;
+        CHECK_EQUAL(0, interface.process_command(3, argv, true));
+    }
+
+    TEST(invalid_port) {
+        const char* argv[] = {"program", "--port", "70000"};
+        InterfaceRefactored interface;
+        CHECK_THROW(interface.process_command(3, argv, true), crit_err);
     }
 }
 
