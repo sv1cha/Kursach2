@@ -10,8 +10,7 @@
 
 namespace po = boost::program_options;
 
-int InterfaceRefactored::process_command(int argc, const char** argv)
-{
+int InterfaceRefactored::process_command(int argc, const char** argv, bool is_test) {
     bool default_database = false;
     bool default_log = false;
     bool default_port = false;
@@ -19,7 +18,6 @@ int InterfaceRefactored::process_command(int argc, const char** argv)
     std::string log_path;
     std::string database_path;
 
-    try {
         po::options_description opts("Available options");
         opts.add_options()
         ("help,h", "Display help")
@@ -59,6 +57,7 @@ int InterfaceRefactored::process_command(int argc, const char** argv)
                 default_port = true;
             }
             port_value = vm["port"].as<int>();
+            std::cout << "1" << std::endl;
         }
 
         if (port_value < 1024 || port_value > 65535) {
@@ -67,6 +66,7 @@ int InterfaceRefactored::process_command(int argc, const char** argv)
         if (default_database && default_log && default_port) {
             std::cout << "Server started with default settings. Use -h for assistance" << std::endl;
         }
+
         Logger log(log_path);
         if (log_path != "/home/stud/kursach2/base/log.txt") {
             log.writelog("Log path set to: " + log_path);
@@ -83,21 +83,17 @@ int InterfaceRefactored::process_command(int argc, const char** argv)
         } else {
             log.writelog("Port uses default setting");
         }
+        
         ConnectorRefactored conn;
         conn.connect_to_registry(database_path);
         log.writelog("Connected to database successfully!");
-        log.writelog("Server operational");
-        ClientHandler handler;
-        handler.manage_connection(port_value, database_path.c_str(), log_path.c_str(), &log);
-    } catch (crit_err& e) {
-        std::cerr << "Critical error: " << e.what() << "\n";
-    } catch (po::error& e) {
-        std::cerr << "Error: " << e.what() << "\n";
-        std::cerr << "Use -h for help\n";
-    } catch (std::exception& e) {
-        std::cerr << "Unexpected error: " << e.what() << "\n";
-    } catch (...) {
-        std::cerr << "Unknown exception!\n";
-    }
+
+        if (!is_test) {
+            log.writelog("Server operational");
+            ClientHandler handler;
+            handler.manage_connection(port_value, database_path.c_str(), log_path.c_str(), &log);
+        } else {
+            std::cout << "Test mode: Server execution bypassed.\n";
+        }
     return 0;
 }
