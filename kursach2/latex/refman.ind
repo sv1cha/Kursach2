@@ -1,0 +1,80 @@
+\begin{theindex}
+
+  \item {CalculatorRefactored.h}, \hyperpage{19}
+  \item {ClientHandler}, \hyperpage{7}
+    \subitem {compute\_md5}, \hyperpage{7}
+    \subitem {create\_salt}, \hyperpage{8}
+    \subitem {manage\_connection}, \hyperpage{8}
+  \item {compute\_md5}
+    \subitem {ClientHandler}, \hyperpage{7}
+  \item {connect\_to\_registry}
+    \subitem {ConnectorRefactored}, \hyperpage{9}
+  \item {ConnectorRefactored}, \hyperpage{9}
+    \subitem {connect\_to\_registry}, \hyperpage{9}
+    \subitem {get\_registry}, \hyperpage{9}
+  \item {ConnectorRefactored.h}, \hyperpage{21}
+  \item {create\_salt}
+    \subitem {ClientHandler}, \hyperpage{8}
+  \item {crit\_err}, \hyperpage{10}
+    \subitem {crit\_err}, \hyperpage{11}
+
+  \indexspace
+
+  \item {Errors.h}, \hyperpage{22}
+
+  \indexspace
+
+  \item {get\_current\_datetime}
+    \subitem {Logger}, \hyperpage{15}
+  \item {get\_registry}
+    \subitem {ConnectorRefactored}, \hyperpage{9}
+
+  \indexspace
+
+  \item {InterfaceRefactored}, \hyperpage{11}
+    \subitem {process\_command}, \hyperpage{11}
+  \item {InterfaceRefactored.h}, \hyperpage{24}
+
+  \indexspace
+
+  \item {Logger}, \hyperpage{13}
+    \subitem {get\_current\_datetime}, \hyperpage{15}
+    \subitem {Logger}, \hyperpage{14}
+    \subitem {set\_path}, \hyperpage{15}
+    \subitem {writelog}, \hyperpage{15}
+  \item {LoggerRefactored.h}, \hyperpage{25}
+
+  \indexspace
+
+  \item {manage\_connection}
+    \subitem {ClientHandler}, \hyperpage{8}
+  \item {MathEngine}, \hyperpage{16}
+    \subitem {MathEngine}, \hyperpage{16}
+    \subitem {retrieve\_result}, \hyperpage{17}
+
+  \indexspace
+
+  \item {no\_crit\_err}, \hyperpage{17}
+    \subitem {no\_crit\_err}, \hyperpage{18}
+
+  \indexspace
+
+  \item {process\_command}
+    \subitem {InterfaceRefactored}, \hyperpage{11}
+
+  \indexspace
+
+  \item {retrieve\_result}
+    \subitem {MathEngine}, \hyperpage{17}
+
+  \indexspace
+
+  \item {set\_path}
+    \subitem {Logger}, \hyperpage{15}
+
+  \indexspace
+
+  \item {writelog}
+    \subitem {Logger}, \hyperpage{15}
+
+\end{theindex}

@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=11"/>
+<meta name="generator" content="Doxygen 1.9.4"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Kursach: Исходный файл ConnectorRefactored.h</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/searchdata.js"></script>
+<script type="text/javascript" src="search/search.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr id="projectrow">
+  <td id="projectalign">
+   <div id="projectname">Kursach<span id="projectnumber">&#160;1.0</span>
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Создано системой Doxygen 1.9.4 -->
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+var searchBox = new SearchBox("searchBox", "search",'Поиск','.html');
+/* @license-end */
+</script>
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+$(function() {
+  initMenu('',true,false,'search.php','Поиск');
+  $(document).ready(function() { init_search(); });
+});
+/* @license-end */
+</script>
+<div id="main-nav"></div>
+</div><!-- top -->
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+<div class="header">
+  <div class="headertitle"><div class="title">ConnectorRefactored.h</div></div>
+</div><!--header-->
+<div class="contents">
+<a href="ConnectorRefactored_8h.html">См. документацию.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span> </div>
+<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span><span class="preprocessor">#pragma once</span></div>
+<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="preprocessor">#include &lt;map&gt;</span></div>
+<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="preprocessor">#include &lt;string&gt;</span></div>
+<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span> </div>
+<div class="line"><a id="l00015" name="l00015"></a><span class="lineno"><a class="line" href="classConnectorRefactored.html">   15</a></span><span class="keyword">class </span><a class="code hl_class" href="classConnectorRefactored.html">ConnectorRefactored</a></div>
+<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>{</div>
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span><span class="keyword">private</span>:</div>
+<div class="line"><a id="l00019" name="l00019"></a><span class="lineno"><a class="line" href="classConnectorRefactored.html#a6e78c6c7facb170d05fa76c7a68e3aa9">   19</a></span>    std::map&lt;std::string, std::string&gt; <a class="code hl_variable" href="classConnectorRefactored.html#a6e78c6c7facb170d05fa76c7a68e3aa9">registry</a>;</div>
+<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span><span class="keyword">public</span>:</div>
+<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span> </div>
+<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>    <span class="keywordtype">int</span> <a class="code hl_function" href="classConnectorRefactored.html#a6a9c9fdfface783401c097e5f908f8de">connect_to_registry</a>(std::string path = <span class="stringliteral">&quot;/home/stud/kursach2/base/base.txt&quot;</span>);</div>
+<div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span> </div>
+<div class="line"><a id="l00036" name="l00036"></a><span class="lineno"><a class="line" href="classConnectorRefactored.html#a643a10319f3ceb35e17be99227ae6daf">   36</a></span>    std::map&lt;std::string, std::string&gt; <a class="code hl_function" href="classConnectorRefactored.html#a643a10319f3ceb35e17be99227ae6daf">get_registry</a>();</div>
+<div class="line"><a id="l00037" name="l00037"></a><span class="lineno">   37</span>};</div>
+<div class="ttc" id="aclassConnectorRefactored_html"><div class="ttname"><a href="classConnectorRefactored.html">ConnectorRefactored</a></div><div class="ttdoc">Класс для подключения к реестру.</div><div class="ttdef"><b>Definition:</b> ConnectorRefactored.h:16</div></div>
+<div class="ttc" id="aclassConnectorRefactored_html_a643a10319f3ceb35e17be99227ae6daf"><div class="ttname"><a href="classConnectorRefactored.html#a643a10319f3ceb35e17be99227ae6daf">ConnectorRefactored::get_registry</a></div><div class="ttdeci">std::map&lt; std::string, std::string &gt; get_registry()</div><div class="ttdoc">Получить реестр пользователей.</div></div>
+<div class="ttc" id="aclassConnectorRefactored_html_a6a9c9fdfface783401c097e5f908f8de"><div class="ttname"><a href="classConnectorRefactored.html#a6a9c9fdfface783401c097e5f908f8de">ConnectorRefactored::connect_to_registry</a></div><div class="ttdeci">int connect_to_registry(std::string path=&quot;/home/stud/kursach2/base/base.txt&quot;)</div><div class="ttdoc">Подключиться к реестру по заданному пути.</div><div class="ttdef"><b>Definition:</b> ConnectorRefactored.cpp:9</div></div>
+<div class="ttc" id="aclassConnectorRefactored_html_a6e78c6c7facb170d05fa76c7a68e3aa9"><div class="ttname"><a href="classConnectorRefactored.html#a6e78c6c7facb170d05fa76c7a68e3aa9">ConnectorRefactored::registry</a></div><div class="ttdeci">std::map&lt; std::string, std::string &gt; registry</div><div class="ttdoc">Реестр пользователей.</div><div class="ttdef"><b>Definition:</b> ConnectorRefactored.h:19</div></div>
+</div><!-- fragment --></div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Создано системой&#160;<a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.4
+</small></address>
+</body>
+</html>

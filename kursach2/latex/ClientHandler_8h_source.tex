@@ -1,0 +1,21 @@
+\hypertarget{ClientHandler_8h_source}{}\doxysection{Client\+Handler.\+h}
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{1 \textcolor{preprocessor}{\#pragma once}}
+\DoxyCodeLine{2 \textcolor{preprocessor}{\#include <string>}}
+\DoxyCodeLine{3 \textcolor{preprocessor}{\#include <map>}}
+\DoxyCodeLine{4 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{LoggerRefactored_8h}{LoggerRefactored.h}}"{}}}
+\DoxyCodeLine{5 \textcolor{preprocessor}{\#include "{}\mbox{\hyperlink{Errors_8h}{Errors.h}}"{}}}
+\DoxyCodeLine{6 }
+\DoxyCodeLine{10 \textcolor{keyword}{class }\mbox{\hyperlink{classClientHandler}{ClientHandler}}}
+\DoxyCodeLine{11 \{}
+\DoxyCodeLine{12 \textcolor{keyword}{public}:}
+\DoxyCodeLine{13 }
+\DoxyCodeLine{24     \textcolor{keywordtype}{int} \mbox{\hyperlink{classClientHandler_a25a3ff165ee4d105be99b2e83c96b944}{manage\_connection}}(\textcolor{keywordtype}{int} port, \textcolor{keyword}{const} \textcolor{keywordtype}{char}* registry\_path, \textcolor{keyword}{const} \textcolor{keywordtype}{char}* log\_path, \mbox{\hyperlink{classLogger}{Logger}}* logger);}
+\DoxyCodeLine{25 }
+\DoxyCodeLine{31     \textcolor{keyword}{static} std::string \mbox{\hyperlink{classClientHandler_a5b0d09f1bf82560e41c36907f9fbbe97}{create\_salt}}();}
+\DoxyCodeLine{32 }
+\DoxyCodeLine{40     \textcolor{keyword}{static} std::string \mbox{\hyperlink{classClientHandler_ae3d237a0a292c9e42bb75cedbc1ee0f6}{compute\_md5}}(\textcolor{keyword}{const} std::string\& input);}
+\DoxyCodeLine{41 \};}
+
+\end{DoxyCode}

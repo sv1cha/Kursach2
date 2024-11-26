@@ -1,0 +1,53 @@
+\hypertarget{classInterfaceRefactored}{}\doxysection{Класс Interface\+Refactored}
+\label{classInterfaceRefactored}\index{InterfaceRefactored@{InterfaceRefactored}}
+
+
+Интерфейс для обработки командной строки.  
+
+
+
+
+{\ttfamily \#include $<$Interface\+Refactored.\+h$>$}
+
+\doxysubsection*{Открытые члены}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classInterfaceRefactored_a79f9c196ba32008a00cc94d5a0fa5bb3}\label{classInterfaceRefactored_a79f9c196ba32008a00cc94d5a0fa5bb3}} 
+{\bfseries Interface\+Refactored} ()
+\begin{DoxyCompactList}\small\item\em Конструктор по умолчанию. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{classInterfaceRefactored_a2bf17166d80cf77a0ee5e867663db708}{process\+\_\+command}} (int argc, const char $\ast$$\ast$argv, bool is\+\_\+test=false)
+\begin{DoxyCompactList}\small\item\em Обработка командной строки. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Подробное описание}
+Интерфейс для обработки командной строки. 
+
+\doxysubsection{Методы}
+\mbox{\Hypertarget{classInterfaceRefactored_a2bf17166d80cf77a0ee5e867663db708}\label{classInterfaceRefactored_a2bf17166d80cf77a0ee5e867663db708}} 
+\index{InterfaceRefactored@{InterfaceRefactored}!process\_command@{process\_command}}
+\index{process\_command@{process\_command}!InterfaceRefactored@{InterfaceRefactored}}
+\doxysubsubsection{\texorpdfstring{process\_command()}{process\_command()}}
+{\footnotesize\ttfamily int Interface\+Refactored\+::process\+\_\+command (\begin{DoxyParamCaption}\item[{int}]{argc,  }\item[{const char $\ast$$\ast$}]{argv,  }\item[{bool}]{is\+\_\+test = {\ttfamily false} }\end{DoxyParamCaption})}
+
+
+
+Обработка командной строки. 
+
+
+\begin{DoxyParams}{Аргументы}
+{\em argc} & Количество аргументов. \\
+\hline
+{\em argv} & Аргументы командной строки. \\
+\hline
+{\em is\+\_\+test} & Режим тестирования.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Возвращает}
+Код успешного выполнения. 
+\end{DoxyReturn}
+
+
+Объявления и описания членов классов находятся в файлах\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{InterfaceRefactored_8h}{Interface\+Refactored.\+h}}\item 
+Interface\+Refactored.\+cpp\end{DoxyCompactItemize}

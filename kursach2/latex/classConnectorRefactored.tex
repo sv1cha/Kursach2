@@ -1,0 +1,67 @@
+\hypertarget{classConnectorRefactored}{}\doxysection{Класс Connector\+Refactored}
+\label{classConnectorRefactored}\index{ConnectorRefactored@{ConnectorRefactored}}
+
+
+Класс для подключения к реестру.  
+
+
+
+
+{\ttfamily \#include $<$Connector\+Refactored.\+h$>$}
+
+\doxysubsection*{Открытые члены}
+\begin{DoxyCompactItemize}
+\item 
+int \mbox{\hyperlink{classConnectorRefactored_a6a9c9fdfface783401c097e5f908f8de}{connect\+\_\+to\+\_\+registry}} (std\+::string path=\char`\"{}/home/stud/kursach2/base/base.\+txt\char`\"{})
+\begin{DoxyCompactList}\small\item\em Подключиться к реестру по заданному пути. \end{DoxyCompactList}\item 
+std\+::map$<$ std\+::string, std\+::string $>$ \mbox{\hyperlink{classConnectorRefactored_a643a10319f3ceb35e17be99227ae6daf}{get\+\_\+registry}} ()
+\begin{DoxyCompactList}\small\item\em Получить реестр пользователей. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Закрытые данные}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classConnectorRefactored_a6e78c6c7facb170d05fa76c7a68e3aa9}\label{classConnectorRefactored_a6e78c6c7facb170d05fa76c7a68e3aa9}} 
+std\+::map$<$ std\+::string, std\+::string $>$ {\bfseries registry}
+\begin{DoxyCompactList}\small\item\em Реестр пользователей. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Подробное описание}
+Класс для подключения к реестру. 
+
+\doxysubsection{Методы}
+\mbox{\Hypertarget{classConnectorRefactored_a6a9c9fdfface783401c097e5f908f8de}\label{classConnectorRefactored_a6a9c9fdfface783401c097e5f908f8de}} 
+\index{ConnectorRefactored@{ConnectorRefactored}!connect\_to\_registry@{connect\_to\_registry}}
+\index{connect\_to\_registry@{connect\_to\_registry}!ConnectorRefactored@{ConnectorRefactored}}
+\doxysubsubsection{\texorpdfstring{connect\_to\_registry()}{connect\_to\_registry()}}
+{\footnotesize\ttfamily int Connector\+Refactored\+::connect\+\_\+to\+\_\+registry (\begin{DoxyParamCaption}\item[{std\+::string}]{path = {\ttfamily \char`\"{}/home/stud/kursach2/base/base.txt\char`\"{}} }\end{DoxyParamCaption})}
+
+
+
+Подключиться к реестру по заданному пути. 
+
+
+\begin{DoxyParams}{Аргументы}
+{\em path} & Путь к файлу реестра.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Возвращает}
+Код результата операции. 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classConnectorRefactored_a643a10319f3ceb35e17be99227ae6daf}\label{classConnectorRefactored_a643a10319f3ceb35e17be99227ae6daf}} 
+\index{ConnectorRefactored@{ConnectorRefactored}!get\_registry@{get\_registry}}
+\index{get\_registry@{get\_registry}!ConnectorRefactored@{ConnectorRefactored}}
+\doxysubsubsection{\texorpdfstring{get\_registry()}{get\_registry()}}
+{\footnotesize\ttfamily std\+::map$<$ std\+::string, std\+::string $>$ Connector\+Refactored\+::get\+\_\+registry (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Получить реестр пользователей. 
+
+\begin{DoxyReturn}{Возвращает}
+Реестр в виде карты. 
+\end{DoxyReturn}
+
+
+Объявления и описания членов классов находятся в файлах\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{ConnectorRefactored_8h}{Connector\+Refactored.\+h}}\item 
+Connector\+Refactored.\+cpp\end{DoxyCompactItemize}

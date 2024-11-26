@@ -1,0 +1,64 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\babel@toc {russian}{}\relax 
+\contentsline {chapter}{\numberline {1}Иерархический список классов}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Иерархия классов}{1}{section.1.1}%
+\contentsline {chapter}{\numberline {2}Алфавитный указатель классов}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Классы}{3}{section.2.1}%
+\contentsline {chapter}{\numberline {3}Список файлов}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Файлы}{5}{section.3.1}%
+\contentsline {chapter}{\numberline {4}Классы}{7}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Класс Client\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Handler}{7}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Подробное описание}{7}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Методы}{7}{subsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.2.1}compute\_md5()}{7}{subsubsection.4.1.2.1}%
+\contentsline {subsubsection}{\numberline {4.1.2.2}create\_salt()}{8}{subsubsection.4.1.2.2}%
+\contentsline {subsubsection}{\numberline {4.1.2.3}manage\_connection()}{8}{subsubsection.4.1.2.3}%
+\contentsline {section}{\numberline {4.2}Класс Connector\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Refactored}{9}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Подробное описание}{9}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Методы}{9}{subsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.2.1}connect\_to\_registry()}{9}{subsubsection.4.2.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2.2}get\_registry()}{9}{subsubsection.4.2.2.2}%
+\contentsline {section}{\numberline {4.3}Класс crit\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}err}{10}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Подробное описание}{11}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Конструктор(ы)}{11}{subsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.2.1}crit\_err()}{11}{subsubsection.4.3.2.1}%
+\contentsline {section}{\numberline {4.4}Класс Interface\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Refactored}{11}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Подробное описание}{11}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Методы}{11}{subsection.4.4.2}%
+\contentsline {subsubsection}{\numberline {4.4.2.1}process\_command()}{12}{subsubsection.4.4.2.1}%
+\contentsline {section}{\numberline {4.5}Класс Logger}{13}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Подробное описание}{13}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Конструктор(ы)}{14}{subsection.4.5.2}%
+\contentsline {subsubsection}{\numberline {4.5.2.1}Logger()}{14}{subsubsection.4.5.2.1}%
+\contentsline {subsection}{\numberline {4.5.3}Методы}{15}{subsection.4.5.3}%
+\contentsline {subsubsection}{\numberline {4.5.3.1}get\_current\_datetime()}{15}{subsubsection.4.5.3.1}%
+\contentsline {subsubsection}{\numberline {4.5.3.2}set\_path()}{15}{subsubsection.4.5.3.2}%
+\contentsline {subsubsection}{\numberline {4.5.3.3}writelog()}{15}{subsubsection.4.5.3.3}%
+\contentsline {section}{\numberline {4.6}Класс Math\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Engine}{16}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Подробное описание}{16}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}Конструктор(ы)}{16}{subsection.4.6.2}%
+\contentsline {subsubsection}{\numberline {4.6.2.1}MathEngine()}{16}{subsubsection.4.6.2.1}%
+\contentsline {subsection}{\numberline {4.6.3}Методы}{17}{subsection.4.6.3}%
+\contentsline {subsubsection}{\numberline {4.6.3.1}retrieve\_result()}{17}{subsubsection.4.6.3.1}%
+\contentsline {section}{\numberline {4.7}Класс no\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}crit\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}err}{17}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}Подробное описание}{18}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2}Конструктор(ы)}{18}{subsection.4.7.2}%
+\contentsline {subsubsection}{\numberline {4.7.2.1}no\_crit\_err()}{18}{subsubsection.4.7.2.1}%
+\contentsline {chapter}{\numberline {5}Файлы}{19}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Файл Calculator\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Refactored.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{19}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Подробное описание}{19}{subsection.5.1.1}%
+\contentsline {section}{\numberline {5.2}Calculator\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Refactored.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{20}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Client\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Handler.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{20}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Файл Connector\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Refactored.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{21}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Подробное описание}{21}{subsection.5.4.1}%
+\contentsline {section}{\numberline {5.5}Connector\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Refactored.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{22}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Файл Errors.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{22}{section.5.6}%
+\contentsline {subsection}{\numberline {5.6.1}Подробное описание}{23}{subsection.5.6.1}%
+\contentsline {section}{\numberline {5.7}Errors.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{23}{section.5.7}%
+\contentsline {section}{\numberline {5.8}Файл Interface\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Refactored.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{24}{section.5.8}%
+\contentsline {subsection}{\numberline {5.8.1}Подробное описание}{24}{subsection.5.8.1}%
+\contentsline {section}{\numberline {5.9}Interface\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Refactored.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{25}{section.5.9}%
+\contentsline {section}{\numberline {5.10}Файл Logger\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Refactored.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{25}{section.5.10}%
+\contentsline {subsection}{\numberline {5.10.1}Подробное описание}{26}{subsection.5.10.1}%
+\contentsline {section}{\numberline {5.11}Logger\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Refactored.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}h}{26}{section.5.11}%
+\contentsline {chapter}{{\cyrillictext \CYRP \cyrr \cyre \cyrd \cyrm \cyre \cyrt \cyrn \cyrery \cyrishrt \ \cyru \cyrk \cyra \cyrz \cyra \cyrt \cyre \cyrl \cyrsftsn }}{27}{section*.29}%

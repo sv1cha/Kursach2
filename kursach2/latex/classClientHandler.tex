@@ -1,0 +1,90 @@
+\hypertarget{classClientHandler}{}\doxysection{Класс Client\+Handler}
+\label{classClientHandler}\index{ClientHandler@{ClientHandler}}
+
+
+Класс для управления соединениями клиентов.  
+
+
+
+
+{\ttfamily \#include $<$Client\+Handler.\+h$>$}
+
+\doxysubsection*{Открытые члены}
+\begin{DoxyCompactItemize}
+\item 
+int \mbox{\hyperlink{classClientHandler_a25a3ff165ee4d105be99b2e83c96b944}{manage\+\_\+connection}} (int port, const char $\ast$registry\+\_\+path, const char $\ast$log\+\_\+path, \mbox{\hyperlink{classLogger}{Logger}} $\ast$logger)
+\begin{DoxyCompactList}\small\item\em Управление соединениями на заданном порту. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Открытые статические члены}
+\begin{DoxyCompactItemize}
+\item 
+static std\+::string \mbox{\hyperlink{classClientHandler_a5b0d09f1bf82560e41c36907f9fbbe97}{create\+\_\+salt}} ()
+\begin{DoxyCompactList}\small\item\em Создать соль для хеширования. \end{DoxyCompactList}\item 
+static std\+::string \mbox{\hyperlink{classClientHandler_ae3d237a0a292c9e42bb75cedbc1ee0f6}{compute\+\_\+md5}} (const std\+::string \&input)
+\begin{DoxyCompactList}\small\item\em Вычислить MD5 хеш от строки. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Подробное описание}
+Класс для управления соединениями клиентов. 
+
+\doxysubsection{Методы}
+\mbox{\Hypertarget{classClientHandler_ae3d237a0a292c9e42bb75cedbc1ee0f6}\label{classClientHandler_ae3d237a0a292c9e42bb75cedbc1ee0f6}} 
+\index{ClientHandler@{ClientHandler}!compute\_md5@{compute\_md5}}
+\index{compute\_md5@{compute\_md5}!ClientHandler@{ClientHandler}}
+\doxysubsubsection{\texorpdfstring{compute\_md5()}{compute\_md5()}}
+{\footnotesize\ttfamily std\+::string Client\+Handler\+::compute\+\_\+md5 (\begin{DoxyParamCaption}\item[{const std\+::string \&}]{input }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Вычислить MD5 хеш от строки. 
+
+
+\begin{DoxyParams}{Аргументы}
+{\em input} & Строка для хеширования.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Возвращает}
+Хешированная строка. 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classClientHandler_a5b0d09f1bf82560e41c36907f9fbbe97}\label{classClientHandler_a5b0d09f1bf82560e41c36907f9fbbe97}} 
+\index{ClientHandler@{ClientHandler}!create\_salt@{create\_salt}}
+\index{create\_salt@{create\_salt}!ClientHandler@{ClientHandler}}
+\doxysubsubsection{\texorpdfstring{create\_salt()}{create\_salt()}}
+{\footnotesize\ttfamily std\+::string Client\+Handler\+::create\+\_\+salt (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Создать соль для хеширования. 
+
+\begin{DoxyReturn}{Возвращает}
+Сгенерированная строка соли. 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classClientHandler_a25a3ff165ee4d105be99b2e83c96b944}\label{classClientHandler_a25a3ff165ee4d105be99b2e83c96b944}} 
+\index{ClientHandler@{ClientHandler}!manage\_connection@{manage\_connection}}
+\index{manage\_connection@{manage\_connection}!ClientHandler@{ClientHandler}}
+\doxysubsubsection{\texorpdfstring{manage\_connection()}{manage\_connection()}}
+{\footnotesize\ttfamily int Client\+Handler\+::manage\+\_\+connection (\begin{DoxyParamCaption}\item[{int}]{port,  }\item[{const char $\ast$}]{registry\+\_\+path,  }\item[{const char $\ast$}]{log\+\_\+path,  }\item[{\mbox{\hyperlink{classLogger}{Logger}} $\ast$}]{logger }\end{DoxyParamCaption})}
+
+
+
+Управление соединениями на заданном порту. 
+
+
+\begin{DoxyParams}{Аргументы}
+{\em port} & Порт сервера для прослушивания. \\
+\hline
+{\em registry\+\_\+path} & Путь к файлу реестра клиентов. \\
+\hline
+{\em log\+\_\+path} & Путь к файлу логов. \\
+\hline
+{\em logger} & Указатель на объект логгера.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Возвращает}
+Код результата операции. 
+\end{DoxyReturn}
+
+
+Объявления и описания членов классов находятся в файлах\+:\begin{DoxyCompactItemize}
+\item 
+Client\+Handler.\+h\item 
+Client\+Handler.\+cpp\end{DoxyCompactItemize}

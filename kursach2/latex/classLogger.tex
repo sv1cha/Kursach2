@@ -1,0 +1,118 @@
+\hypertarget{classLogger}{}\doxysection{Класс Logger}
+\label{classLogger}\index{Logger@{Logger}}
+
+
+Класс для записи логов.  
+
+
+
+
+{\ttfamily \#include $<$Logger\+Refactored.\+h$>$}
+
+\doxysubsection*{Открытые члены}
+\begin{DoxyCompactItemize}
+\item 
+int \mbox{\hyperlink{classLogger_a210466dcbb5cc9e3611ff18f5a893a40}{writelog}} (std\+::string message)
+\begin{DoxyCompactList}\small\item\em Записать сообщение в лог. \end{DoxyCompactList}\item 
+int \mbox{\hyperlink{classLogger_a148f4037d37f131b5eecd651e0e5fc1e}{set\+\_\+path}} (std\+::string file\+\_\+path)
+\begin{DoxyCompactList}\small\item\em Установить путь к файлу логов. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{classLogger_abc41bfb031d896170c7675fa96a6b30c}\label{classLogger_abc41bfb031d896170c7675fa96a6b30c}} 
+{\bfseries Logger} ()
+\begin{DoxyCompactList}\small\item\em Конструктор по умолчанию. \end{DoxyCompactList}\item 
+\mbox{\hyperlink{classLogger_a7f4c364f1578e19501f88ee5b7ddd66e}{Logger}} (std\+::string path)
+\begin{DoxyCompactList}\small\item\em Конструктор с указанием пути. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Закрытые статические члены}
+\begin{DoxyCompactItemize}
+\item 
+static std\+::string \mbox{\hyperlink{classLogger_aa8f79a8b311c3aad84140554c9eaa1f8}{get\+\_\+current\+\_\+datetime}} (std\+::string format)
+\begin{DoxyCompactList}\small\item\em Получить текущую дату и время. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Закрытые данные}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classLogger_a9c0dcecb826ffa5d5386e1560e9f39a0}\label{classLogger_a9c0dcecb826ffa5d5386e1560e9f39a0}} 
+std\+::string {\bfseries log\+\_\+file\+\_\+path}
+\begin{DoxyCompactList}\small\item\em Путь к файлу логов. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Подробное описание}
+Класс для записи логов. 
+
+\doxysubsection{Конструктор(ы)}
+\mbox{\Hypertarget{classLogger_a7f4c364f1578e19501f88ee5b7ddd66e}\label{classLogger_a7f4c364f1578e19501f88ee5b7ddd66e}} 
+\index{Logger@{Logger}!Logger@{Logger}}
+\index{Logger@{Logger}!Logger@{Logger}}
+\doxysubsubsection{\texorpdfstring{Logger()}{Logger()}}
+{\footnotesize\ttfamily Logger\+::\+Logger (\begin{DoxyParamCaption}\item[{std\+::string}]{path }\end{DoxyParamCaption})}
+
+
+
+Конструктор с указанием пути. 
+
+
+\begin{DoxyParams}{Аргументы}
+{\em path} & Путь к файлу логов. \\
+\hline
+\end{DoxyParams}
+
+
+\doxysubsection{Методы}
+\mbox{\Hypertarget{classLogger_aa8f79a8b311c3aad84140554c9eaa1f8}\label{classLogger_aa8f79a8b311c3aad84140554c9eaa1f8}} 
+\index{Logger@{Logger}!get\_current\_datetime@{get\_current\_datetime}}
+\index{get\_current\_datetime@{get\_current\_datetime}!Logger@{Logger}}
+\doxysubsubsection{\texorpdfstring{get\_current\_datetime()}{get\_current\_datetime()}}
+{\footnotesize\ttfamily string Logger\+::get\+\_\+current\+\_\+datetime (\begin{DoxyParamCaption}\item[{std\+::string}]{format }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}, {\ttfamily [private]}}
+
+
+
+Получить текущую дату и время. 
+
+
+\begin{DoxyParams}{Аргументы}
+{\em format} & Формат вывода.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Возвращает}
+Строка с текущей датой и временем. 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classLogger_a148f4037d37f131b5eecd651e0e5fc1e}\label{classLogger_a148f4037d37f131b5eecd651e0e5fc1e}} 
+\index{Logger@{Logger}!set\_path@{set\_path}}
+\index{set\_path@{set\_path}!Logger@{Logger}}
+\doxysubsubsection{\texorpdfstring{set\_path()}{set\_path()}}
+{\footnotesize\ttfamily int Logger\+::set\+\_\+path (\begin{DoxyParamCaption}\item[{std\+::string}]{file\+\_\+path }\end{DoxyParamCaption})}
+
+
+
+Установить путь к файлу логов. 
+
+
+\begin{DoxyParams}{Аргументы}
+{\em file\+\_\+path} & Новый путь к файлу логов.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Возвращает}
+Код успешного выполнения. 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classLogger_a210466dcbb5cc9e3611ff18f5a893a40}\label{classLogger_a210466dcbb5cc9e3611ff18f5a893a40}} 
+\index{Logger@{Logger}!writelog@{writelog}}
+\index{writelog@{writelog}!Logger@{Logger}}
+\doxysubsubsection{\texorpdfstring{writelog()}{writelog()}}
+{\footnotesize\ttfamily int Logger\+::writelog (\begin{DoxyParamCaption}\item[{std\+::string}]{message }\end{DoxyParamCaption})}
+
+
+
+Записать сообщение в лог. 
+
+
+\begin{DoxyParams}{Аргументы}
+{\em message} & Сообщение для записи.\\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Возвращает}
+Код успешной записи. 
+\end{DoxyReturn}
+
+
+Объявления и описания членов классов находятся в файлах\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{LoggerRefactored_8h}{Logger\+Refactored.\+h}}\item 
+Logger\+Refactored.\+cpp\end{DoxyCompactItemize}
