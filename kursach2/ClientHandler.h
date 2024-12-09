@@ -21,7 +21,7 @@ public:
      * 
      * @return Код результата операции.
      */
-    int manage_connection(int port, const char* registry_path, const char* log_path, Logger* logger);
+    int manage_connection(int port, const char* registry_path,  Logger* logger);
 
     /**
      * @brief Создать соль для хеширования.

@@ -70,7 +70,7 @@ try {
     if (!is_test) {
         log.writelog("Server operational");
         ClientHandler handler;
-        handler.manage_connection(port_value, database_path.c_str(), log_path.c_str(), &log);
+        handler.manage_connection(port_value, database_path.c_str(),  &log);
     } else {
         std::cout << "Test mode: Server execution bypassed.\n";
     }

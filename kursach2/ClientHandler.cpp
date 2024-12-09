@@ -81,7 +81,7 @@ void load_client_registry(const char* filepath) {
     }
 }
 
-int ClientHandler::manage_connection(int port, const char* registry_path, const char* log_path, Logger* logger) {
+int ClientHandler::manage_connection(int port, const char* registry_path,  Logger* logger) {
     try {
         load_client_registry(registry_path);
         //logger->set_path(log_path);
