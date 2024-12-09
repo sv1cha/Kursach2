@@ -6,8 +6,7 @@
 
 using namespace std;
 
-int ConnectorRefactored::connect_to_registry(string path)
-{
+int ConnectorRefactored::connect_to_registry(string path) {
     if (path.find('.') == std::string::npos) {
         throw crit_err("File name missing extension");
     }
@@ -17,18 +16,23 @@ int ConnectorRefactored::connect_to_registry(string path)
         throw crit_err("Cannot open file " + path);
     }
     string line;
-    string password;
-    string username;
     while (getline(file, line)) {
         size_t pos = line.find(':');
         if (pos != std::string::npos) {
-            username = line.substr(0, pos);
-            password = line.substr(pos + 1);
-            registry[username] = password;
+            string username = line.substr(0, pos);
+            string password = line.substr(pos + 1);
+            if (!username.empty() && !password.empty()) {
+                registry[username] = password;
+            }
         }
     }
+    
+    Logger log;
+    log.set_path("/home/stud/kursach2/base/log.txt");
+    
     if (registry.empty()) {
-        throw crit_err("File is empty or contains invalid data");
+        log.writelog("Database is empty or contains missing credentials");
+        throw crit_err("Database is empty or contains invalid data");
     }
     return 0;
 }

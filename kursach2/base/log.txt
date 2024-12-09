@@ -1302,3 +1302,439 @@
 2024-11-26 20:26:24 Log path uses default setting
 2024-11-26 20:26:24 Database path set to: /home/stud/kursach2
 2024-11-26 20:26:24 Port uses default setting
+2024-11-29 18:55:18 Log path uses default setting
+2024-11-29 18:55:18 Database path uses default setting
+2024-11-29 18:55:18 Port uses default setting
+2024-11-29 18:55:18 Connected to database successfully!
+2024-11-29 18:55:18 Server operational
+2024-11-29 18:55:18 Socket created
+2024-11-29 18:55:18 Bind successful
+2024-11-29 20:32:10 Log path set to: /home/stud/kursach2/base/log.txt
+2024-11-29 20:32:10 Database path set to: /home/stud/kursach2/base/base.txt
+2024-11-29 20:32:10 Port set to: 33333
+2024-11-29 20:32:10 Connected to database successfully!
+2024-11-29 20:32:10 Server operational
+2024-11-29 20:32:10 Socket created
+2024-11-29 20:32:10 Bind successful
+2024-11-29 20:32:27 Client socket accepted
+2024-11-29 20:32:27 Received client ID: user
+2024-11-29 20:32:27 Salt sent: 9048857cf1535edc
+2024-11-29 20:32:27 Received client hash: 1E05328C747610E038A27A5B7714A993
+2024-11-29 20:32:27 Salt: 9048857cf1535edc
+2024-11-29 20:32:27 Password: P@ssW0rd
+2024-11-29 20:32:27 Expected hash: 1E05328C747610E038A27A5B7714A993
+2024-11-29 20:32:27 Authentication successful
+2024-11-29 20:32:27 Response sent: OK____________
+2024-11-29 20:32:27 Vector count received: 4
+2024-11-29 20:32:27 Expected data size: 32
+2024-11-29 20:32:27 Received data size: 32
+2024-11-29 20:32:27 Calculation result for vector 1 sent
+2024-11-29 20:32:27 Expected data size: 32
+2024-11-29 20:32:27 Received data size: 32
+2024-11-29 20:32:27 Calculation result for vector 2 sent
+2024-11-29 20:32:27 Expected data size: 32
+2024-11-29 20:32:27 Received data size: 32
+2024-11-29 20:32:27 Calculation result for vector 3 sent
+2024-11-29 20:32:27 Expected data size: 32
+2024-11-29 20:32:27 Received data size: 32
+2024-11-29 20:32:27 Calculation result for vector 4 sent
+2024-11-29 20:32:27 Closed client connection
+2024-11-29 20:32:42 Client socket accepted
+2024-11-29 20:32:42 Received client ID: user
+2024-11-29 20:32:42 Salt sent: f1054d98897acc54
+2024-11-29 20:32:42 Received client hash: 0F3C21AC2CBE8CF60B6255817CDF1A25D2F5296405D77C901DB91EA43FD6024
+2024-11-29 20:32:42 Salt: f1054d98897acc54
+2024-11-29 20:32:42 Password: P@ssW0rd
+2024-11-29 20:32:42 Expected hash: FED3E70B858801CF09A5D5852E466E98
+2024-11-29 20:32:42 Authentication failed
+2024-11-29 20:32:42 Response sent: ERR___________
+2024-11-29 20:32:54 Client socket accepted
+2024-11-29 20:32:54 Received client ID: user
+2024-11-29 20:32:54 Salt sent: e0459aaef68393d2
+2024-11-29 20:32:54 Received client hash: 7EF98963084367405C1E21B46DF738B4
+2024-11-29 20:32:54 Salt: e0459aaef68393d2
+2024-11-29 20:32:54 Password: P@ssW0rd
+2024-11-29 20:32:54 Expected hash: 7EF98963084367405C1E21B46DF738B4
+2024-11-29 20:32:54 Authentication successful
+2024-11-29 20:32:54 Response sent: OK____________
+2024-11-29 20:32:54 Vector count received: 4
+2024-11-29 20:32:54 Expected data size: 32
+2024-11-29 20:32:54 Received data size: 16
+2024-11-29 20:32:54 [Non-critical] Received data size mismatch
+2024-11-29 20:35:05 Log path set to: /home/stud/kursach2/base/log.txt
+2024-11-29 20:35:05 Database path set to: /home/stud/kursach2/base/base.txt
+2024-11-29 20:35:05 Port set to: 33333
+2024-11-29 20:35:05 Connected to database successfully!
+2024-11-29 20:35:05 Server operational
+2024-11-29 20:35:05 Socket created
+2024-11-29 20:35:05 Bind successful
+2024-11-29 20:39:00 Log path set to: /home/stud/kursach2/base/log.txt
+2024-11-29 20:39:00 Database path set to: /home/stud/kursach2/base/base.txt
+2024-11-29 20:39:00 Port set to: 33333
+2024-11-29 20:39:00 Connected to database successfully!
+2024-11-29 20:39:00 Server operational
+2024-11-29 20:39:00 Socket created
+2024-11-29 20:39:00 Bind successful
+2024-12-09 19:39:04 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 19:39:04 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 19:39:04 Port set to: 33333
+2024-12-09 19:39:04 Connected to database successfully!
+2024-12-09 19:39:04 Server operational
+2024-12-09 19:39:04 Socket created
+2024-12-09 19:39:04 Bind successful
+2024-12-09 19:39:46 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 19:39:46 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 19:39:46 Port set to: 33333
+2024-12-09 19:39:46 Connected to database successfully!
+2024-12-09 19:39:46 Server operational
+2024-12-09 19:39:46 Socket created
+2024-12-09 19:39:46 Bind successful
+2024-12-09 19:41:06 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 19:41:06 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 19:41:06 Port set to: 33333
+2024-12-09 19:41:06 Connected to database successfully!
+2024-12-09 19:41:06 Server operational
+2024-12-09 19:41:06 Socket created
+2024-12-09 19:41:06 Bind successful
+2024-12-09 19:43:26 Client socket accepted
+2024-12-09 19:43:26 Received client ID: user
+2024-12-09 19:43:26 Salt sent: 94654cbfed3c87b1
+2024-12-09 19:43:26 Received client hash: 799BEFCE4469AD7163652D273E7D2BA1
+2024-12-09 19:43:26 Salt: 94654cbfed3c87b1
+2024-12-09 19:43:26 Password: P@ssW0rd
+2024-12-09 19:43:26 Expected hash: 799BEFCE4469AD7163652D273E7D2BA1
+2024-12-09 19:43:26 Authentication successful
+2024-12-09 19:43:26 Response sent: OK____________
+2024-12-09 19:43:26 Vector count received: 4
+2024-12-09 19:43:26 Expected data size: 32
+2024-12-09 19:43:26 Received data size: 8
+2024-12-09 19:43:26 [Non-critical] Received data size mismatch
+2024-12-09 19:43:44 Client socket accepted
+2024-12-09 19:43:44 Received client ID: user
+2024-12-09 19:43:44 Salt sent: b6b6d2bfdda81c9c
+2024-12-09 19:43:44 Received client hash: 2D05CCEF3608A7B814E9F1DB760456D8
+2024-12-09 19:43:44 Salt: b6b6d2bfdda81c9c
+2024-12-09 19:43:44 Password: P@ssW0rd
+2024-12-09 19:43:44 Expected hash: 2D05CCEF3608A7B814E9F1DB760456D8
+2024-12-09 19:43:44 Authentication successful
+2024-12-09 19:43:44 Response sent: OK____________
+2024-12-09 19:43:44 Vector count received: 4
+2024-12-09 19:43:44 Expected data size: 32
+2024-12-09 19:43:44 Received data size: 32
+2024-12-09 19:43:44 Calculation result for vector 1 sent
+2024-12-09 19:43:44 Expected data size: 32
+2024-12-09 19:43:44 Received data size: 32
+2024-12-09 19:43:44 Calculation result for vector 2 sent
+2024-12-09 19:43:44 Expected data size: 32
+2024-12-09 19:43:44 Received data size: 32
+2024-12-09 19:43:44 Calculation result for vector 3 sent
+2024-12-09 19:43:44 Expected data size: 32
+2024-12-09 19:43:44 Received data size: 32
+2024-12-09 19:43:44 Calculation result for vector 4 sent
+2024-12-09 19:43:44 Closed client connection
+2024-12-09 19:44:09 Client socket accepted
+2024-12-09 19:44:09 Received client ID: user
+2024-12-09 19:44:09 Salt sent: 6133290c0da006d5
+2024-12-09 19:44:09 Received client hash: 77CF6DAF95F69CE9CBDEDE8EEF8EC276
+2024-12-09 19:44:09 Salt: 6133290c0da006d5
+2024-12-09 19:44:09 Password: P@ssW0rd
+2024-12-09 19:44:09 Expected hash: 77CF6DAF95F69CE9CBDEDE8EEF8EC276
+2024-12-09 19:44:09 Authentication successful
+2024-12-09 19:44:09 Response sent: OK____________
+2024-12-09 19:44:09 Vector count received: 4
+2024-12-09 19:44:09 Expected data size: 32
+2024-12-09 19:44:09 Received data size: 32
+2024-12-09 19:44:09 Calculation result for vector 1 sent
+2024-12-09 19:44:09 Expected data size: 32
+2024-12-09 19:44:09 Received data size: 32
+2024-12-09 19:44:09 Calculation result for vector 2 sent
+2024-12-09 19:44:09 Expected data size: 32
+2024-12-09 19:44:09 Received data size: 32
+2024-12-09 19:44:09 Calculation result for vector 3 sent
+2024-12-09 19:44:09 Expected data size: 32
+2024-12-09 19:44:09 Received data size: 32
+2024-12-09 19:44:09 Calculation result for vector 4 sent
+2024-12-09 19:44:09 Closed client connection
+2024-12-09 19:45:59 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 19:45:59 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 19:45:59 Port set to: 33333
+2024-12-09 19:45:59 Connected to database successfully!
+2024-12-09 19:45:59 Server operational
+2024-12-09 19:45:59 Socket created
+2024-12-09 19:45:59 Bind successful
+2024-12-09 19:46:26 Client socket accepted
+2024-12-09 19:46:26 Received client ID: user
+2024-12-09 19:46:26 Salt sent: 3c134c4f24eda7c7
+2024-12-09 19:46:26 Received client hash: EDE03F841C52DFA63060DC72A439A5EC
+2024-12-09 19:46:26 Salt: 3c134c4f24eda7c7
+2024-12-09 19:46:26 Password: 
+2024-12-09 19:46:26 Expected hash: F4428FEDCA5FA23FA3A9AD577CD18583
+2024-12-09 19:46:26 Authentication failed
+2024-12-09 19:46:26 Response sent: ERR___________
+2024-12-09 19:47:26 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 19:47:26 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 19:47:26 Port set to: 33333
+2024-12-09 19:47:26 Connected to database successfully!
+2024-12-09 19:47:26 Server operational
+2024-12-09 19:47:26 Socket created
+2024-12-09 19:47:26 Binding socket failed
+2024-12-09 19:47:30 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 19:47:30 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 19:47:30 Port set to: 33333
+2024-12-09 19:47:30 Connected to database successfully!
+2024-12-09 19:47:30 Server operational
+2024-12-09 19:47:30 Socket created
+2024-12-09 19:47:30 Bind successful
+2024-12-09 19:49:18 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 19:49:18 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 19:49:18 Port set to: 33333
+2024-12-09 19:49:18 Connected to database successfully!
+2024-12-09 19:49:18 Server operational
+2024-12-09 19:49:18 Socket created
+2024-12-09 19:49:18 Bind successful
+2024-12-09 19:49:40 Client socket accepted
+2024-12-09 19:49:40 Received client ID: user
+2024-12-09 19:49:40 Salt sent: e800ac44cd7ced8e
+2024-12-09 19:49:40 Received client hash: 3807E0AFC7B60E6F585648831A9597B6
+2024-12-09 19:49:40 Salt: e800ac44cd7ced8e
+2024-12-09 19:49:40 Password: P@ssW0rd
+2024-12-09 19:49:40 Expected hash: 3807E0AFC7B60E6F585648831A9597B6
+2024-12-09 19:49:40 Authentication successful
+2024-12-09 19:49:40 Response sent: OK____________
+2024-12-09 19:49:40 Vector count received: 4
+2024-12-09 19:49:40 Expected data size: 32
+2024-12-09 19:49:40 Received data size: 32
+2024-12-09 19:49:40 Calculation result for vector 1 sent
+2024-12-09 19:49:40 Expected data size: 32
+2024-12-09 19:49:40 Received data size: 32
+2024-12-09 19:49:40 Calculation result for vector 2 sent
+2024-12-09 19:49:40 Expected data size: 32
+2024-12-09 19:49:40 Received data size: 32
+2024-12-09 19:49:40 Calculation result for vector 3 sent
+2024-12-09 19:49:40 Expected data size: 32
+2024-12-09 19:49:40 Received data size: 32
+2024-12-09 19:49:40 Calculation result for vector 4 sent
+2024-12-09 19:49:40 Closed client connection
+2024-12-09 20:00:48 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 20:00:48 Database path set to: /home/stud/kursach2
+2024-12-09 20:00:48 Port set to: 33333
+2024-12-09 20:02:30 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 20:02:30 Database path set to: /home/stud/kursach2
+2024-12-09 20:02:30 Port set to: 33333
+2024-12-09 20:02:49 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 20:02:49 Database path set to: /home/stud/kursach2
+2024-12-09 20:02:49 Port set to: 33333
+2024-12-09 20:03:07 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 20:03:07 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 20:03:07 Port set to: 33333
+2024-12-09 20:03:07 Connected to database successfully!
+2024-12-09 20:03:07 Server operational
+2024-12-09 20:03:07 Socket created
+2024-12-09 20:03:07 Bind successful
+2024-12-09 20:12:12 Log path uses default setting
+2024-12-09 20:12:12 Database path uses default setting
+2024-12-09 20:12:12 Port uses default setting
+2024-12-09 20:12:12 Connected to database successfully!
+2024-12-09 20:12:12 Log path uses default setting
+2024-12-09 20:12:12 Database path set to: /home/stud/kursach2/base/test_files/base.txt
+2024-12-09 20:12:12 Port uses default setting
+2024-12-09 20:20:18 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 20:20:18 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 20:20:18 Port set to: 33333
+2024-12-09 20:20:18 Connected to database successfully!
+2024-12-09 20:20:18 Server operational
+2024-12-09 20:20:18 Socket created
+2024-12-09 20:20:18 Bind successful
+2024-12-09 20:36:08 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 20:36:08 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 20:36:08 Port set to: 55555
+2024-12-09 20:36:08 Connected to database successfully!
+2024-12-09 20:36:08 Server operational
+2024-12-09 20:36:08 Socket created
+2024-12-09 20:36:08 Bind successful
+2024-12-09 20:36:23 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 20:36:23 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 20:36:23 Port set to: 11111
+2024-12-09 20:36:23 Connected to database successfully!
+2024-12-09 20:36:23 Server operational
+2024-12-09 20:36:23 Socket created
+2024-12-09 20:36:23 Bind successful
+2024-12-09 20:36:38 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 20:36:38 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 20:36:38 Port set to: 11111
+2024-12-09 20:36:38 Connected to database successfully!
+2024-12-09 20:36:38 Server operational
+2024-12-09 20:36:38 Socket created
+2024-12-09 20:36:38 Bind successful
+2024-12-09 20:37:46 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 20:37:46 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 20:37:46 Port set to: 33333
+2024-12-09 20:37:46 Connected to database successfully!
+2024-12-09 20:37:46 Server operational
+2024-12-09 20:37:46 Socket created
+2024-12-09 20:37:46 Bind successful
+2024-12-09 20:37:49 Client socket accepted
+2024-12-09 20:37:49 Received client ID: user
+2024-12-09 20:37:49 Salt sent: 6693fbeee632f574
+2024-12-09 20:37:49 Received client hash: E7A5972401692EF2F1E16DBDFAEA298F
+2024-12-09 20:37:49 Salt: 6693fbeee632f574
+2024-12-09 20:37:49 Password: P@ssW0rd
+2024-12-09 20:37:49 Expected hash: E7A5972401692EF2F1E16DBDFAEA298F
+2024-12-09 20:37:49 Authentication successful
+2024-12-09 20:37:49 Response sent: OK____________
+2024-12-09 20:37:49 Vector count received: 4
+2024-12-09 20:37:50 Expected data size: 32
+2024-12-09 20:37:50 Received data size: 32
+2024-12-09 20:37:50 Calculation result for vector 1 sent
+2024-12-09 20:37:50 Expected data size: 32
+2024-12-09 20:37:50 Received data size: 32
+2024-12-09 20:37:50 Calculation result for vector 2 sent
+2024-12-09 20:37:50 Expected data size: 32
+2024-12-09 20:37:50 Received data size: 32
+2024-12-09 20:37:50 Calculation result for vector 3 sent
+2024-12-09 20:37:50 Expected data size: 32
+2024-12-09 20:37:50 Received data size: 32
+2024-12-09 20:37:50 Calculation result for vector 4 sent
+2024-12-09 20:37:50 Closed client connection
+2024-12-09 20:52:16 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 20:52:16 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 20:52:16 Port set to: 33333
+2024-12-09 20:53:46 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 20:53:46 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 20:53:46 Port set to: 33333
+2024-12-09 20:53:50 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 20:53:50 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 20:53:50 Port set to: 33333
+2024-12-09 20:55:54 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 20:55:54 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 20:55:54 Port set to: 33333
+2024-12-09 20:58:48 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 20:58:48 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 20:58:48 Port set to: 33333
+2024-12-09 21:00:03 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 21:00:03 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 21:00:03 Port set to: 33333
+2024-12-09 21:00:44 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 21:00:44 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 21:00:44 Port set to: 33333
+2024-12-09 21:00:44 Connected to database successfully!
+2024-12-09 21:00:44 Server operational
+2024-12-09 21:00:44 Socket created
+2024-12-09 21:00:44 Bind successful
+2024-12-09 21:01:19 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 21:01:19 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 21:01:19 Port set to: 33333
+2024-12-09 21:02:39 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 21:02:39 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 21:02:39 Port set to: 33333
+2024-12-09 21:02:39 Connected to database successfully!
+2024-12-09 21:02:39 Server operational
+2024-12-09 21:02:39 Socket created
+2024-12-09 21:02:39 Bind successful
+2024-12-09 21:10:48 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 21:10:48 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 21:10:48 Port set to: 33333
+2024-12-09 21:16:45 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 21:16:45 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 21:16:45 Port set to: 33333
+2024-12-09 21:16:45 Connected to database successfully!
+2024-12-09 21:16:45 Server operational
+2024-12-09 21:16:45 Socket created
+2024-12-09 21:16:45 Bind successful
+2024-12-09 21:17:30 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 21:17:30 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 21:17:30 Port set to: 33333
+2024-12-09 21:17:30 Database is empty or contains missing credentials
+2024-12-09 21:21:03 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 21:21:03 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 21:21:03 Port set to: 33333
+2024-12-09 21:21:03 Database is empty or contains missing credentials
+2024-12-09 21:23:58 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 21:23:58 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 21:23:58 Port set to: 33333
+2024-12-09 21:23:58 Connected to database successfully!
+2024-12-09 21:23:58 Server operational
+2024-12-09 21:23:58 Socket created
+2024-12-09 21:23:58 Bind successful
+2024-12-09 21:32:06 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 21:32:06 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 21:32:06 Port set to: 33333
+2024-12-09 21:32:06 Database is empty or contains missing credentials
+2024-12-09 21:33:49 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 21:33:49 Database path set to: /home/stud/kursach2/base
+2024-12-09 21:33:49 Port set to: 33333
+2024-12-09 21:37:34 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 21:37:34 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 21:37:34 Port set to: 33333
+2024-12-09 21:37:34 Database is empty or contains missing credentials
+2024-12-09 21:39:09 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 21:39:09 Database path set to: /home/stud/kursach2/base
+2024-12-09 21:39:09 Port set to: 111111111
+2024-12-09 21:44:00 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 21:44:00 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 21:44:00 Port set to: 33333
+2024-12-09 21:44:00 Database is empty or contains missing credentials
+2024-12-09 21:44:19 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 21:44:19 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 21:44:19 Port set to: 33333
+2024-12-09 21:44:19 Connected to database successfully!
+2024-12-09 21:44:19 Server operational
+2024-12-09 21:44:19 Socket created
+2024-12-09 21:44:19 Bind successful
+2024-12-09 21:52:10 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 21:52:10 Database path set to: /home/stud/kursach2/base/
+2024-12-09 21:52:10 Port set to: 33333
+2024-12-09 21:56:51 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 21:56:51 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 21:56:51 Port set to: 33333
+2024-12-09 21:56:51 Connected to database successfully!
+2024-12-09 21:56:51 Server operational
+2024-12-09 21:56:51 Socket created
+2024-12-09 21:56:51 Bind successful
+2024-12-09 21:57:09 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 21:57:09 Database path set to: /home/stud/kursach2/base
+2024-12-09 21:57:09 Port set to: 33333
+2024-12-09 21:59:49 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 21:59:49 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 21:59:49 Port set to: 33333
+2024-12-09 21:59:49 Database is empty or contains missing credentials
+2024-12-09 23:41:06 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-09 23:41:06 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-09 23:41:06 Port set to: 33333
+2024-12-09 23:41:06 Connected to database successfully!
+2024-12-09 23:41:06 Server operational
+2024-12-09 23:41:06 Socket created
+2024-12-09 23:41:06 Bind successful
+2024-12-09 23:41:15 Client socket accepted
+2024-12-09 23:41:15 Received client ID: user
+2024-12-09 23:41:15 Salt sent: d9deba0634169a8d
+2024-12-09 23:41:15 Received client hash: B6566C9CCAA07C43BBFBEEA42EE0A1C1
+2024-12-09 23:41:15 Salt: d9deba0634169a8d
+2024-12-09 23:41:15 Password: P@ssW0rd
+2024-12-09 23:41:15 Expected hash: B6566C9CCAA07C43BBFBEEA42EE0A1C1
+2024-12-09 23:41:15 Authentication successful
+2024-12-09 23:41:15 Response sent: OK____________
+2024-12-09 23:41:15 Vector count received: 4
+2024-12-09 23:41:15 Expected data size: 32
+2024-12-09 23:41:15 Received data size: 32
+2024-12-09 23:41:15 Calculation result for vector 1 sent
+2024-12-09 23:41:15 Expected data size: 32
+2024-12-09 23:41:15 Received data size: 32
+2024-12-09 23:41:15 Calculation result for vector 2 sent
+2024-12-09 23:41:15 Expected data size: 32
+2024-12-09 23:41:15 Received data size: 32
+2024-12-09 23:41:15 Calculation result for vector 3 sent
+2024-12-09 23:41:15 Expected data size: 32
+2024-12-09 23:41:15 Received data size: 32
+2024-12-09 23:41:15 Calculation result for vector 4 sent
+2024-12-09 23:41:15 Closed client connection
+2024-12-10 00:13:50 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-10 00:13:50 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-10 00:13:50 Port set to: 33333
+2024-12-10 00:13:50 Connected to database successfully!
+2024-12-10 00:13:50 Server operational
+2024-12-10 00:13:50 Socket created
+2024-12-10 00:13:50 Bind successful
+2024-12-10 00:14:34 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-10 00:14:34 Database path set to: /home/stud/kursach2/base/bast
+2024-12-10 00:14:34 Port set to: 33333

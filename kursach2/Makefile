@@ -3,7 +3,7 @@ CXXFLAGS = -std=c++17 -Wall -Wextra -O2
 INCLUDES = -I.
 
 
-SOURCES = CalculatorRefactored.cpp ClientHandler.cpp ConnectorRefactored.cpp InterfaceRefactored.cpp LoggerRefactored.cpp
+SOURCES = main.cpp ConnectorRefactored.cpp ClientHandler.cpp InterfaceRefactored.cpp LoggerRefactored.cpp Errors.cpp
 OBJECTS = $(SOURCES:.cpp=.o)
 EXECUTABLE = my_project
 

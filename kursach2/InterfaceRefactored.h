@@ -15,7 +15,7 @@
 class InterfaceRefactored {
 public:
     /// Конструктор по умолчанию.
-    InterfaceRefactored();
+    InterfaceRefactored(int argc, const char** argv);
 
     /**
      * @brief Обработка командной строки.
@@ -26,5 +26,5 @@ public:
      * 
      * @return Код успешного выполнения.
      */
-    int process_command(int argc, const char** argv, bool is_test = false);
+     int process_command(int argc, const char** argv, bool is_test = false);
 };

@@ -2,6 +2,7 @@
 #include "LoggerRefactored.h"
 #include "CalculatorRefactored.h"
 #include "Errors.h"
+#include <iostream>
 #include <arpa/inet.h>
 #include <netinet/in.h>
 #include <sys/socket.h>
@@ -27,16 +28,13 @@ std::map<std::string, std::string> client_registry;
 
 bool will_overflow(int64_t current_sum, int64_t value) {
     int64_t square = value * value;
-
     if (value != 0 && square / value != value) {
         return true;
     }
-
     if ((current_sum > 0 && square > INT64_MAX - current_sum) ||
         (current_sum < 0 && square < INT64_MIN - current_sum)) {
         return true;
     }
-
     return false;
 }
 
@@ -63,7 +61,6 @@ std::string ClientHandler::compute_md5(const std::string& input) {
             )
         )
     );
-
     return output;
 }
 
@@ -87,37 +84,36 @@ void load_client_registry(const char* filepath) {
 int ClientHandler::manage_connection(int port, const char* registry_path, const char* log_path, Logger* logger) {
     try {
         load_client_registry(registry_path);
-        logger->set_path(log_path);
+        //logger->set_path(log_path);
 
         int connection_limit = 100;
-        sockaddr_in *server_addr = new sockaddr_in;
-        server_addr->sin_family = AF_INET;
-        server_addr->sin_port = htons(port);
-        inet_aton("127.0.0.1", &server_addr->sin_addr);
+        sockaddr_in server_addr;
+        server_addr.sin_family = AF_INET;
+        server_addr.sin_port = htons(port);
+        inet_aton("127.0.0.1", &server_addr.sin_addr);
+
         int socket_fd = socket(AF_INET, SOCK_STREAM, 0);
         if (socket_fd <= 0) {
             throw crit_err("Socket creation failed");
         } else {
             logger->writelog("Socket created");
         }
-        
-        auto bind_result = bind(socket_fd, (const sockaddr*)server_addr, sizeof(sockaddr_in));
-        if (bind_result == -1) {
+
+        if (bind(socket_fd, (const sockaddr*)&server_addr, sizeof(sockaddr_in)) == -1) {
             throw crit_err("Binding socket failed");
         } else {
             logger->writelog("Bind successful");
         }
 
-        auto listen_result = listen(socket_fd, connection_limit);
-        if (listen_result == -1) {
+        if (listen(socket_fd, connection_limit) == -1) {
             throw crit_err("Listening on socket failed");
         }
 
         while (true) {
             try {
-                sockaddr_in *client_addr = new sockaddr_in;
+                sockaddr_in client_addr;
                 socklen_t addr_len = sizeof(sockaddr_in);
-                int client_fd = accept(socket_fd, (sockaddr*)(client_addr), &addr_len);
+                int client_fd = accept(socket_fd, (sockaddr*)&client_addr, &addr_len);
                 if (client_fd <= 0) {
                     throw no_crit_err("[Non-critical] Failed to accept client socket");
                 }
@@ -206,7 +202,6 @@ int ClientHandler::manage_connection(int port, const char* registry_path, const 
                     logger->writelog("Expected data size: " + std::to_string(vector_size * sizeof(int64_t)));
                     logger->writelog("Received data size: " + std::to_string(received_bytes));
 
-                    // Проверка на правильность принимаемого типа и объема данных
                     if (static_cast<size_t>(received_bytes) != vector_size * sizeof(int64_t)) {
                         close(client_fd);
                         throw no_crit_err("[Non-critical] Received data size mismatch");
@@ -214,7 +209,6 @@ int ClientHandler::manage_connection(int port, const char* registry_path, const 
 
                     int64_t sum_of_squares = 0;
                     bool overflow = false;
-
                     for (int64_t value : vector_data) {
                         if (will_overflow(sum_of_squares, value)) {
                             overflow = true;
@@ -222,7 +216,7 @@ int ClientHandler::manage_connection(int port, const char* registry_path, const 
                         }
                         sum_of_squares += value * value;
                     }
-
+                    
                     if (overflow) {
                         sum_of_squares = sum_of_squares < 0 ? INT64_MIN : INT64_MAX;
                     }
@@ -243,6 +237,10 @@ int ClientHandler::manage_connection(int port, const char* registry_path, const 
         }
     } catch (crit_err& e) {
         logger->writelog(e.what());
+    } catch (std::exception& e) {
+        std::cerr << "Unexpected error: " << e.what() << "\n";
+    } catch (...) {
+        std::cerr << "Unknown exception!\n";
     }
     return 0;
 }
