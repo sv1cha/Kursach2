@@ -28,7 +28,7 @@ int ConnectorRefactored::connect_to_registry(string path) {
     }
     
     Logger log;
-    //log.set_path("/var/log/vcalc.log");
+    log.set_path("/var/log/vcalc.log");
     
     if (registry.empty()) {
         log.writelog("Database is empty or contains missing credentials");
