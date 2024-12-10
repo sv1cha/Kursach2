@@ -26,7 +26,7 @@ public:
      * 
      * @return Код результата операции.
      */
-    int connect_to_registry(std::string path = "/home/stud/kursach2/base/base.txt");
+    int connect_to_registry(std::string path = "/var/log/vcalc.log");
 
     /**
      * @brief Получить реестр пользователей.
