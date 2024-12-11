@@ -6,7 +6,7 @@
 
 using namespace std;
 
-int ConnectorRefactored::connect_to_registry(string path) {
+int ConnectorRefactored::connect_to_registry(Logger &log, string path ) {
     if (path.find('.') == std::string::npos) {
         throw crit_err("File name missing extension");
     }
@@ -27,8 +27,8 @@ int ConnectorRefactored::connect_to_registry(string path) {
         }
     }
     
-    Logger log;
-    log.set_path("/var/log/vcalc.log");
+    
+    //log.set_path("/var/log/vcalc.log");
     
     if (registry.empty()) {
         log.writelog("Database is empty or contains missing credentials");

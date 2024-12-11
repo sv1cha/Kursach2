@@ -26,7 +26,7 @@ public:
      * 
      * @return Код результата операции.
      */
-    int connect_to_registry(std::string path = "/var/log/vcalc.log");
+    int connect_to_registry(Logger &log, std::string path = "/var/log/vcalc.log" );
 
     /**
      * @brief Получить реестр пользователей.

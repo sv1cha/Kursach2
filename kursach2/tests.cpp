@@ -75,7 +75,7 @@ SUITE(ClientHandler_test) {
     }
 }
 
-Test for InterfaceRefactored
+//Test for InterfaceRefactored
 
 SUITE(InterfaceRefactored_test) {
     TEST(default_options) {

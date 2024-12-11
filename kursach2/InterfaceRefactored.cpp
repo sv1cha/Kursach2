@@ -65,7 +65,7 @@ try {
     log.writelog("Database path set to: " + database_path);
     log.writelog("Port set to: " + std::to_string(port_value));
     ConnectorRefactored conn;
-    conn.connect_to_registry(database_path);
+    conn.connect_to_registry(log, database_path );
     log.writelog("Connected to database successfully!");
     if (!is_test) {
         log.writelog("Server operational");

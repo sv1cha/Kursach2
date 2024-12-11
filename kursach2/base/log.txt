@@ -1738,3 +1738,37 @@
 2024-12-10 00:14:34 Log path set to: /home/stud/kursach2/base/log.txt
 2024-12-10 00:14:34 Database path set to: /home/stud/kursach2/base/bast
 2024-12-10 00:14:34 Port set to: 33333
+2024-12-10 10:05:39 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-10 10:05:39 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-10 10:05:39 Port set to: 33333
+2024-12-10 10:05:39 Connected to database successfully!
+2024-12-10 10:05:39 Server operational
+2024-12-10 10:05:39 Socket created
+2024-12-10 10:05:39 Bind successful
+2024-12-10 10:05:53 Client socket accepted
+2024-12-10 10:05:53 Received client ID: user
+2024-12-10 10:05:53 Salt sent: 052cfdca34764ccd
+2024-12-10 10:05:53 Received client hash: 4C1344E33AABD1D0974F8E05256C4A7E
+2024-12-10 10:05:53 Salt: 052cfdca34764ccd
+2024-12-10 10:05:53 Password: P@ssW0r
+2024-12-10 10:05:53 Expected hash: BBBB7FB8381B55B3882945958EB5875A
+2024-12-10 10:05:53 Authentication failed
+2024-12-10 10:05:53 Response sent: ERR___________
+2024-12-10 18:38:17 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-10 18:38:17 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-10 18:38:17 Port set to: 11111
+2024-12-10 18:38:17 Connected to database successfully!
+2024-12-10 18:38:17 Server operational
+2024-12-10 18:38:17 Socket created
+2024-12-10 18:38:17 Bind successful
+2024-12-10 19:21:50 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-10 19:21:50 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-10 19:21:50 Port set to: 33333
+2024-12-10 19:21:50 Database is empty or contains missing credentials
+2024-12-10 19:29:23 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-10 19:29:23 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-10 19:29:23 Port set to: 33333
+2024-12-10 19:29:23 Database is empty or contains missing credentials
+2024-12-10 20:48:37 Log path set to: /home/stud/kursach2/base/log.txt
+2024-12-10 20:48:37 Database path set to: /home/stud/kursach2/base/base.txt
+2024-12-10 20:48:37 Port set to: 33333
