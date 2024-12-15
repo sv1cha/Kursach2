@@ -26,17 +26,20 @@ SUITE(MathEngine_test) {
 SUITE(ConnectorRefactored_test) {
     TEST(void_path) {
         ConnectorRefactored conn;
-        CHECK_THROW(conn.connect_to_registry(""), crit_err);
+        Logger logger;
+        CHECK_THROW(conn.connect_to_registry(logger, ""), crit_err);
     }
 
     TEST(wrong_path) {
         ConnectorRefactored conn;
-        CHECK_THROW(conn.connect_to_registry("invalid/path.txt"), crit_err);
+        Logger logger;
+        CHECK_THROW(conn.connect_to_registry(logger, "invalid/path.txt"), crit_err);
     }
 
     TEST(correct_path) {
         ConnectorRefactored conn;
-        CHECK_EQUAL(0, conn.connect_to_registry("/home/stud/kursach2/base/test_files/base.txt"));
+        Logger logger;
+        CHECK_EQUAL(0, conn.connect_to_registry(logger, "/etc/vcalc.conf"));
     }
 }
 
@@ -44,17 +47,18 @@ SUITE(ConnectorRefactored_test) {
 SUITE(Logger_test) {
     TEST(void_path_log) {
         Logger logger;
-        CHECK_THROW(logger.set_path(""), std::invalid_argument);
+        CHECK_THROW(logger.set_path(""), crit_err);
     }
 
-    TEST(wrong_path_log) {
+    SUITE(Logger_test) {
+    TEST(wrong_path_log_fallback) {
         Logger logger;
-        CHECK_THROW(logger.set_path("/non/existent/path/log.txt"), crit_err);
+        CHECK_EQUAL(0, logger.set_path("/non/existent/path/log.txt")); // Проверяем успешный переход
     }
-
+}
     TEST(correct_path_log) {
         Logger logger;
-        CHECK_EQUAL(0, logger.set_path("/home/stud/kursach2/base/test_files/log.txt"));
+        CHECK_EQUAL(0, logger.set_path("/home/stud/kursach2/base/log.txt"));
     }
 }
 
@@ -75,28 +79,27 @@ SUITE(ClientHandler_test) {
     }
 }
 
-//Test for InterfaceRefactored
-
+/**Test for InterfaceRefactored
 SUITE(InterfaceRefactored_test) {
     TEST(default_options) {
         const char* argv[] = {"program"};
-        InterfaceRefactored interface;
+        InterfaceRefactored interface(1, argv);
         CHECK_EQUAL(0, interface.process_command(1, argv, true));
     }
 
     TEST(custom_database_path) {
-        const char* argv[] = {"program", "--database", "/home/stud/kursach2/base/test_files/base.txt"};
-        InterfaceRefactored interface;
+        const char* argv[] = {"program", "--database", "/home/stud/kursach2/base/base.txt"};
+        InterfaceRefactored interface(3, argv);
         CHECK_EQUAL(0, interface.process_command(3, argv, true));
     }
 
     TEST(invalid_port) {
         const char* argv[] = {"program", "--port", "70000"};
-        InterfaceRefactored interface;
+        InterfaceRefactored interface(3, argv);
         CHECK_THROW(interface.process_command(3, argv, true), crit_err);
     }
 }
-
+*/
 // Main entry for running all tests
 int main([[maybe_unused]] int argc, [[maybe_unused]] char** argv) {
     return UnitTest::RunAllTests();

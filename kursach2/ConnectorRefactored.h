@@ -6,6 +6,7 @@
 * @warning Это учебный пример
 */
 #pragma once
+#include "LoggerRefactored.h"
 #include <map>
 #include <string>
 

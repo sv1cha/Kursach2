@@ -2,11 +2,11 @@ CXX = g++
 CXXFLAGS = -std=c++17 -Wall -Wextra -O2
 INCLUDES = -I.
 
-
-SOURCES = main.cpp ConnectorRefactored.cpp ClientHandler.cpp InterfaceRefactored.cpp LoggerRefactored.cpp Errors.cpp
+SOURCES = CalculatorRefactored.cpp ConnectorRefactored.cpp \
+          ClientHandler.cpp InterfaceRefactored.cpp \
+          LoggerRefactored.cpp Errors.cpp
 OBJECTS = $(SOURCES:.cpp=.o)
 EXECUTABLE = my_project
-
 
 TEST_SOURCES = tests.cpp
 TEST_OBJECTS = $(TEST_SOURCES:.cpp=.o)
